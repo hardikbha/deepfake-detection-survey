@@ -1,0 +1,35 @@
+# Ignore common files
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large files (add paper PDFs manually)
+*.pdf
+
+# Data (too large for git)
+*.h5
+*.hdf5
+*.tar.gz
+*.zip
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
