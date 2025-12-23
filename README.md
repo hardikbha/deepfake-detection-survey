@@ -26,9 +26,11 @@
 This repository accompanies our survey paper:
 
 > **"Comprehensive Review of Image-Based Deepfake Detection Techniques and Datasets"**  
-> *Submitted to IEEE Transactions on Information Forensics and Security, 2025*
+> *Authors: Hardik Sharma, Sachin Chaudhary, Praful Hambarde, Akshay Dudhane*
 
 A curated collection of deepfake detection literature, datasets, and implementations covering **image**, **video**, and **audio** modalities.
+
+📧 **Contact:** [hhardikssharma@gmail.com](mailto:hhardikssharma@gmail.com)
 
 ---
 
@@ -45,9 +47,10 @@ A curated collection of deepfake detection literature, datasets, and implementat
 | **WildDeepfake** | 2020 | 3,805 | 3,509 | Real-world internet deepfakes | [🔗](https://github.com/deepfakeinthewild/deepfake-in-the-wild) |
 | **ForgeryNet** | 2021 | 99,630 | 121,617 | 15 methods, 8 manipulation types | [🔗](https://yinanhe.github.io/projects/forgerynet.html) |
 | **KoDF** | 2021 | 62,166 | 175,776 | Korean celebrities, 6 methods | [🔗](https://moneybrain-research.github.io/kodf/) |
-| **FFIW-10K** | 2021 | 10,000 | 10,000 | Face forensics in the wild | — |
-| **DF-Platter** | 2023 | — | — | Multi-generator platter | [🔗](https://github.com/AustralianAI/DF-Platter) |
-| **Deepfake-Eval-2024** | 2024 | — | — | Latest evaluation benchmark | — |
+| **FFIW-10K** | 2021 | 10,000 | 10,000 | Face forensics in the wild | [🔗](https://docs.google.com/forms/d/e/1FAIpQLSfKOKwsqL0c9Y6gH-1LTue8V7xAfVsgYDa0gRP2NnpufAOfJA/viewform) |
+| **DF-Platter** | 2023 | — | — | Multi-generator platter | [🔗](https://drive.google.com/drive/folders/1GeR-a2LfcMkcY6Qzpv2TP8utLtYFBmTs) |
+| **DFDM** | 2023 | — | — | Deepfakes from different models | [🔗](https://drive.google.com/drive/folders/1aXxeMdA2qwjDytyIgr4CBMVy4pAWizdX) |
+| **Deepfake-Eval-2024** | 2024 | — | — | Latest evaluation benchmark | [🔗](https://huggingface.co/datasets/nuriachandra/Deepfake-Eval-2024) |
 
 ### 🖼️ Image Deepfake Datasets
 
@@ -183,10 +186,8 @@ deepfake-detection-survey/
 ```bibtex
 @article{deepfakesurvey2025,
   title   = {Comprehensive Review of Image-Based Deepfake Detection Techniques and Datasets},
-  author  = {Sachin Chaudhary and Praful Hambarde and Akshay Dudhane},
-  journal = {IEEE Transactions on Information Forensics and Security},
-  year    = {2025},
-  note    = {Under Review}
+  author  = {Hardik Sharma and Sachin Chaudhary and Praful Hambarde and Akshay Dudhane},
+  year    = {2025}
 }
 ```
 

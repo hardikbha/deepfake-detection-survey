@@ -228,10 +228,8 @@ All BibTeX citations for papers referenced in this survey.
 ```bibtex
 @article{deepfakesurvey2025,
   title   = {Comprehensive Review of Image-Based Deepfake Detection Techniques and Datasets},
-  author  = {Sachin Chaudhary and Praful Hambarde and Akshay Dudhane},
-  journal = {IEEE Transactions on Information Forensics and Security},
-  year    = {2025},
-  note    = {Under Review}
+  author  = {Hardik Sharma and Sachin Chaudhary and Praful Hambarde and Akshay Dudhane},
+  year    = {2025}
 }
 ```
 

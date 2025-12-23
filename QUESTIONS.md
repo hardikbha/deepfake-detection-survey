@@ -4,9 +4,28 @@ This document tracks missing information that requires user input or further res
 
 ---
 
+## ✅ Resolved Items
+
+### Dataset Links (RESOLVED)
+The following dataset links have been added:
+
+| Dataset | Status | Link |
+|---------|--------|------|
+| FFIW-10K | ✅ Added | [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfKOKwsqL0c9Y6gH-1LTue8V7xAfVsgYDa0gRP2NnpufAOfJA/viewform) |
+| Deepfake-Eval-2024 | ✅ Added | [HuggingFace](https://huggingface.co/datasets/nuriachandra/Deepfake-Eval-2024) |
+| DF-Platter | ✅ Added | [Google Drive](https://drive.google.com/drive/folders/1GeR-a2LfcMkcY6Qzpv2TP8utLtYFBmTs) |
+| DFDM | ✅ Added | [Google Drive](https://drive.google.com/drive/folders/1aXxeMdA2qwjDytyIgr4CBMVy4pAWizdX) |
+
+### Author Info (RESOLVED)
+- ✅ Authors: Hardik Sharma, Sachin Chaudhary, Praful Hambarde, Akshay Dudhane
+- ✅ Contact: hhardikssharma@gmail.com
+- ✅ Journal mention removed as requested
+
+---
+
 ## 🔴 Missing GitHub Repositories
 
-The following papers do not have publicly available code. Please provide links if available:
+The following papers do not have publicly available code:
 
 | Paper | Conference | Status |
 |-------|------------|--------|
@@ -15,10 +34,6 @@ The following papers do not have publicly available code. Please provide links i
 | Generalization-Preserved Learning | ICCV 2025 | ❌ No code found |
 | Motion Magnification | WACV 2024 | ❌ No code found |
 | Unsupervised Multimodal Detection | BMVC 2025 | ❌ No code found |
-| Implicit Identity Driven | CVPR 2023 | ❓ Unknown |
-| Implicit Identity Leakage | CVPR 2023 | ❓ Unknown |
-
-**Question:** Do you have access to any of these implementations or know of unofficial repos?
 
 ---
 
@@ -34,70 +49,24 @@ These repositories exist but code is not yet uploaded:
 
 ---
 
-## 🟠 Dataset Links Needed
+## 🟠 Still Needed
 
-Please verify or provide links for these datasets:
-
-| Dataset | Year | Current Status |
-|---------|------|----------------|
-| FFIW-10K | 2021 | ❓ Link not found |
-| Deepfake-Eval-2024 | 2024 | ❓ Link not found |
-| DF-Platter | 2023 | ❓ Verify link |
-| DFDM | — | ❓ Link not found |
-| OW-DFA++ | — | ❓ Link not found |
+| Item | Status |
+|------|--------|
+| OW-DFA++ dataset link | ❓ N/A in CSV |
+| Performance metrics for new methods | ❓ Need to extract from papers |
 
 ---
 
-## 🔵 Author Information
+## ✅ Completed
 
-Please confirm or update:
-
-1. **Author list for the survey paper:**
-   - Currently listed: Sachin Chaudhary, Praful Hambarde, Akshay Dudhane
-   - Is this correct and complete?
-
-2. **Target journal:**
-   - Currently listed: IEEE Transactions on Information Forensics and Security
-   - Confirm or update
-
-3. **Contact email:**
-   - Should a contact email be added to the README?
-
----
-
-## 🟢 Performance Metrics
-
-The following papers need verified performance numbers:
-
-| Method | Metric Needed | Dataset |
-|--------|---------------|---------|
-| FakeSTormer | AUC on FF++, Celeb-DF, DFDC | — |
-| PwTF-DVD | AUC on FF++, Celeb-DF | — |
-| D4 | AUC on diffusion datasets | — |
-| LFM | Cross-dataset AUC | — |
-| DFS-GDD | Generalization metrics | — |
-
----
-
-## 📝 Additional Suggestions
-
-1. **Add more datasets from spreadsheet?** The spreadsheet contains many audio datasets (ASVspoof, WaveFake, MLAAD) - should these be included in detail?
-
-2. **Add tool implementations?** The spreadsheet lists detection tools (SHAP, Grad-CAM, etc.) - should these be added?
-
-3. **Add benchmark comparisons?** Should we add more detailed performance comparison tables?
-
-4. **Create dataset download scripts?** Should we provide automated download scripts for public datasets?
-
----
-
-## ✅ To Do
-
-- [ ] Verify all CVF paper links are working
-- [ ] Add missing dataset links
-- [ ] Update when pending code releases become available
-- [ ] Add performance metrics when available
-- [ ] Consider adding audio/video specific sections
+- [x] Add author: Hardik Sharma
+- [x] Add email: hhardikssharma@gmail.com
+- [x] Remove journal mention
+- [x] Add FFIW-10K link
+- [x] Add Deepfake-Eval-2024 link
+- [x] Add DF-Platter link
+- [x] Add DFDM link
 
 ---
 
