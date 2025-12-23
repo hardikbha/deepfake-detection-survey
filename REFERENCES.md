@@ -4,6 +4,44 @@ All BibTeX citations for papers referenced in this survey.
 
 ---
 
+## 🆕 CVPR 2025
+
+```bibtex
+@inproceedings{Huang_2025_CVPR_SIDA,
+  author    = {Zhenglin Huang and Jinwei Hu and Xiangtai Li and Yiwei He and Xingyu Zhao and Bei Peng and Baoyuan Wu and Xiaowei Huang and Guangliang Cheng},
+  title     = {{SIDA}: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model},
+  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2025},
+  code      = {https://github.com/hzlsaber/SIDA}
+}
+
+@inproceedings{Yang_2025_CVPR_D3,
+  author    = {Yang, et al.},
+  title     = {D3: Scaling Up Deepfake Detection by Learning from Discrepancy},
+  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2025},
+  url       = {https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_D3_Scaling_Up_Deepfake_Detection_by_Learning_from_Discrepancy_CVPR_2025_paper.pdf}
+}
+
+@inproceedings{Guo_2025_CVPR,
+  author    = {Guo, et al.},
+  title     = {Face Forgery Video Detection via Temporal Forgery Cue Unraveling},
+  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2025},
+  url       = {https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Face_Forgery_Video_Detection_via_Temporal_Forgery_Cue_Unraveling_CVPR_2025_paper.pdf}
+}
+
+@inproceedings{Yan_2025_CVPR,
+  author    = {Yan, et al.},
+  title     = {Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning},
+  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2025},
+  url       = {https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Generalizing_Deepfake_Video_Detection_with_Plug-and-Play_Video-Level_Blending_and_Spatiotemporal_CVPR_2025_paper.pdf}
+}
+```
+
+---
+
 ## 🆕 ICCV 2025
 
 ```bibtex
