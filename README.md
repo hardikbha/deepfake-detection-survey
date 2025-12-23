@@ -19,38 +19,38 @@ This repository presents a curated collection of literature referenced in our co
 
 ### 🆕 Latest Papers (ICCV 2025) — State-of-the-art Detection Methods
 
-| Paper Title | Conference | Link | GitHub |
-|-------------|------------|------|--------|
-| FakeRadar: Probing Forgery Outliers to Detect Unknown Deepfake Videos | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.html) | — |
-| DeepShield: Fortifying Deepfake Video Detection with Local and Global Forgery Analysis | ICCV 2025 | [Paper](https://openaccess.thecvf.com/ICCV2025) | — |
-| Vulnerability-Aware Spatio-Temporal Learning for Generalizable Deepfake Video Detection | ICCV 2025 | [Paper](https://openaccess.thecvf.com/ICCV2025) | — |
-| Generalization-Preserved Learning: Closing the Backdoor to Catastrophic Forgetting in Continual Deepfake Detection | ICCV 2025 | [Paper](https://openaccess.thecvf.com/ICCV2025) | — |
-| Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection | ICCV 2025 | [Paper](https://openaccess.thecvf.com/ICCV2025) | — |
-| Open-Unfairness Adversarial Mitigation for Generalized Deepfake Detection | ICCV 2025 | [Paper](https://openaccess.thecvf.com/ICCV2025) | — |
-| Intra-modal and Cross-modal Synchronization for Audio-visual Deepfake Detection | ICCV 2025 | [Paper](https://openaccess.thecvf.com/ICCV2025) | — |
+| Paper Title | Conference | Paper Link | GitHub | Code Status |
+|-------------|------------|------------|--------|-------------|
+| FakeRadar: Probing Forgery Outliers to Detect Unknown Deepfake Videos | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.html) | — | ❌ No code found |
+| DeepShield: Fortifying Deepfake Video Detection with Local and Global Forgery Analysis | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_Analysis_ICCV_2025_paper.html) | — | ❌ No code found |
+| Vulnerability-Aware Spatio-Temporal Learning for Generalizable Deepfake Video Detection (FakeSTormer) | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Nguyen_Vulnerability-Aware_Spatio-Temporal_Learning_for_Generalizable_Deepfake_Video_Detection_ICCV_2025_paper.html) | [10Ring/FakeSTormer](https://github.com/10Ring/FakeSTormer) | ✅ Code available |
+| Generalization-Preserved Learning: Closing the Backdoor to Catastrophic Forgetting in Continual Deepfake Detection | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_Generalization-Preserved_Learning_Closing_the_Backdoor_to_Catastrophic_Forgetting_in_Continual_Deepfake_Detection_ICCV_2025_paper.html) | — | ❌ No code found |
+| Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection (PwTF-DVD) | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Beyond_Spatial_Frequency_Pixel-wise_Temporal_Frequency-Based_Deepfake_Video_Detection_ICCV_2025_paper.html) | [rama0126/PwTF-DVD](https://github.com/rama0126/PwTF-DVD) | ✅ Code available |
+| Open-Unfairness Adversarial Mitigation for Generalized Deepfake Detection (AdvOU) | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Li_Open-Unfairness_Adversarial_Mitigation_for_Generalized_Deepfake_Detection_ICCV_2025_paper.html) | [liacaaa/AdvOU](https://github.com/liacaaa/AdvOU) | ⏳ Placeholder (code coming soon) |
+| Intra-modal and Cross-modal Synchronization for Audio-visual Deepfake Detection | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Anshul_Intra-modal_and_Cross-modal_Synchronization_for_Audio-visual_Deepfake_Detection_and_Temporal_Localization_ICCV_2025_paper.html) | [AshutoshAnshul/ics-av-deepfake](https://github.com/AshutoshAnshul/ics-av-deepfake) | ⏳ Coming soon |
 
 ### 🔊 Audio-Visual & Multimodal Detection — WACV 2024
 
-| Paper Title | Conference | Link | GitHub |
-|-------------|------------|------|--------|
-| Improving Fairness in Deepfake Detection | WACV 2024 | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ju_Improving_Fairness_in_Deepfake_Detection_WACV_2024_paper.html) | — |
-| D4: Detection of Adversarial Diffusion Deepfakes Using Disjoint Ensembles | WACV 2024 | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Hooda_D4_Detection_of_Adversarial_Diffusion_Deepfakes_Using_Disjoint_Ensembles_WACV_2024_paper.html) | — |
-| How Do Deepfakes Move? Motion Magnification for Deepfake Source Detection | WACV 2024 | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Demir_How_Do_Deepfakes_Move_Motion_Magnification_for_Deepfake_Source_Detection_WACV_2024_paper.html) | — |
+| Paper Title | Conference | Paper Link | GitHub | Code Status |
+|-------------|------------|------------|--------|-------------|
+| Improving Fairness in Deepfake Detection | WACV 2024 | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ju_Improving_Fairness_in_Deepfake_Detection_WACV_2024_paper.html) | [littlejuyan/DF_Fairness](https://github.com/littlejuyan/DF_Fairness) | ⏳ Coming soon |
+| D4: Detection of Adversarial Diffusion Deepfakes Using Disjoint Ensembles | WACV 2024 | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Hooda_D4_Detection_of_Adversarial_Diffusion_Deepfakes_Using_Disjoint_Ensembles_WACV_2024_paper.html) | [nmangaokar/wacv_24_d4](https://github.com/nmangaokar/wacv_24_d4) | ✅ Code available |
+| How Do Deepfakes Move? Motion Magnification for Deepfake Source Detection | WACV 2024 | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Demir_How_Do_Deepfakes_Move_Motion_Magnification_for_Deepfake_Source_Detection_WACV_2024_paper.html) | — | ❌ No code found |
 
 ### 🎯 Generalization & Robustness — BMVC 2024-2025
 
-| Paper Title | Conference | Link | GitHub |
-|-------------|------------|------|--------|
-| A Novel Local Focusing Mechanism for Deepfake Detection Generalization | BMVC 2025 | [Paper](https://bmvc2025.bmva.org/proceedings/457/) | — |
-| Unsupervised Multimodal Deepfake Detection Through Explicit Intra-Modal and Cross-Modal Inconsistency Discovery | BMVC 2025 | [Paper](https://bmvc2025.bmva.org/proceedings/722/) | — |
-| Decoupling Forgery Semantics for Generalizable Deepfake Detection | BMVC 2024 | [Paper](https://bmvc2024.org/proceedings/401/) | — |
+| Paper Title | Conference | Paper Link | GitHub | Code Status |
+|-------------|------------|------------|--------|-------------|
+| A Novel Local Focusing Mechanism for Deepfake Detection Generalization (LFM) | BMVC 2025 | [Paper](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_457/paper.pdf) | [lmlpy/LFM](https://github.com/lmlpy/LFM) | ✅ Code available |
+| Unsupervised Multimodal Deepfake Detection Through Explicit Intra-Modal and Cross-Modal Inconsistency Discovery | BMVC 2025 | [Paper](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_722/paper.pdf) | — | ❌ No code found |
+| Decoupling Forgery Semantics for Generalizable Deepfake Detection (DFS-GDD) | BMVC 2024 | [Paper](https://papers.bmvc2024.org/0401.pdf) | [leaffeall/DFS-GDD](https://github.com/leaffeall/DFS-GDD) | ✅ Code available |
 
 ### 🪪 Identity-Based Detection — CVPR 2023
 
-| Paper Title | Conference | Link | GitHub |
-|-------------|------------|------|--------|
-| Implicit Identity Driven Deepfake Face Swapping Detection | CVPR 2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Implicit_Identity_Driven_Deepfake_Face_Swapping_Detection_CVPR_2023_paper.html) | — |
-| Implicit Identity Leakage: The Stumbling Block to Improving Deepfake Detection Generalization | CVPR 2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Dong_Implicit_Identity_Leakage_The_Stumbling_Block_to_Improving_Deepfake_Detection_CVPR_2023_paper.html) | — |
+| Paper Title | Conference | Paper Link | GitHub | Code Status |
+|-------------|------------|------------|--------|-------------|
+| Implicit Identity Driven Deepfake Face Swapping Detection | CVPR 2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Implicit_Identity_Driven_Deepfake_Face_Swapping_Detection_CVPR_2023_paper.html) | — | — |
+| Implicit Identity Leakage: The Stumbling Block to Improving Deepfake Detection Generalization | CVPR 2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Dong_Implicit_Identity_Leakage_The_Stumbling_Block_to_Improving_Deepfake_Detection_CVPR_2023_paper.html) | — | — |
 
 ### 🧠 CNN-Based Detection — Early deep learning approaches
 
@@ -143,20 +143,25 @@ This repository presents a curated collection of literature referenced in our co
 
 Official and third-party implementations of key detection methods:
 
-| Method | Framework | Link |
-|--------|-----------|------|
-| FaceForensics++ Benchmark | PyTorch | [Link](https://github.com/ondyari/FaceForensics) |
-| DeepfakeBench | PyTorch | [Link](https://github.com/SCLBD/DeepfakeBench) |
-| F3-Net | PyTorch | [Link](https://github.com/yyk-wew/F3-Net) |
-| Face X-Ray | PyTorch | [Link](https://github.com/neverUseThisName/Face-X-Ray) |
-| DIRE | PyTorch | [Link](https://github.com/ZhendongWang6/DIRE) |
-| UnivFD (Universal Fake Detector) | PyTorch | [Link](https://github.com/WisconsinAIVision/UniversalFakeDetect) |
+| Method | Framework | Link | Status |
+|--------|-----------|------|--------|
+| FaceForensics++ Benchmark | PyTorch | [ondyari/FaceForensics](https://github.com/ondyari/FaceForensics) | ✅ Available |
+| DeepfakeBench | PyTorch | [SCLBD/DeepfakeBench](https://github.com/SCLBD/DeepfakeBench) | ✅ Available |
+| F3-Net | PyTorch | [yyk-wew/F3-Net](https://github.com/yyk-wew/F3-Net) | ✅ Available |
+| Face X-Ray | PyTorch | [neverUseThisName/Face-X-Ray](https://github.com/neverUseThisName/Face-X-Ray) | ✅ Available |
+| DIRE | PyTorch | [ZhendongWang6/DIRE](https://github.com/ZhendongWang6/DIRE) | ✅ Available |
+| UnivFD (Universal Fake Detector) | PyTorch | [WisconsinAIVision/UniversalFakeDetect](https://github.com/WisconsinAIVision/UniversalFakeDetect) | ✅ Available |
+| FakeSTormer (ICCV 2025) | PyTorch | [10Ring/FakeSTormer](https://github.com/10Ring/FakeSTormer) | ✅ Available |
+| PwTF-DVD (ICCV 2025) | PyTorch | [rama0126/PwTF-DVD](https://github.com/rama0126/PwTF-DVD) | ✅ Available |
+| D4 (WACV 2024) | PyTorch | [nmangaokar/wacv_24_d4](https://github.com/nmangaokar/wacv_24_d4) | ✅ Available |
+| LFM (BMVC 2025) | PyTorch | [lmlpy/LFM](https://github.com/lmlpy/LFM) | ✅ Available |
+| DFS-GDD (BMVC 2024) | PyTorch | [leaffeall/DFS-GDD](https://github.com/leaffeall/DFS-GDD) | ✅ Available |
 
 ---
 
 ## 📖 BibTeX Citations
 
-### New Papers (ICCV 2025)
+### ICCV 2025
 
 ```bibtex
 @InProceedings{Li_2025_ICCV_FakeRadar,
@@ -175,12 +180,13 @@ Official and third-party implementations of key detection methods:
   year      = {2025}
 }
 
-@InProceedings{Nguyen_2025_ICCV,
+@InProceedings{Nguyen_2025_ICCV_FakeSTormer,
   author    = {Nguyen, Dat and Astrid, Marcella and Kacem, Anis and Ghorbel, Enjie and Aouada, Djamila},
   title     = {Vulnerability-Aware Spatio-Temporal Learning for Generalizable Deepfake Video Detection},
   booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   month     = {October},
-  year      = {2025}
+  year      = {2025},
+  note      = {Code: https://github.com/10Ring/FakeSTormer}
 }
 
 @InProceedings{Zhang_2025_ICCV,
@@ -191,20 +197,22 @@ Official and third-party implementations of key detection methods:
   year      = {2025}
 }
 
-@InProceedings{Kim_2025_ICCV,
+@InProceedings{Kim_2025_ICCV_PwTF,
   author    = {Kim, Taehoon and Choi, Jongwook and Jeong, Yonghyun and Jeon, Yong and Noh, Haeun and Yoo, Jaejun and Baek, Seungryul and Choi, Jongwon},
   title     = {Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection},
   booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   month     = {October},
-  year      = {2025}
+  year      = {2025},
+  note      = {Code: https://github.com/rama0126/PwTF-DVD}
 }
 
-@InProceedings{Li_2025_ICCV_Unfairness,
+@InProceedings{Li_2025_ICCV_AdvOU,
   author    = {Li, Zhaoyang and Teng, Zhu and Zhang, Baopeng and Fan, Jianping},
   title     = {Open-Unfairness Adversarial Mitigation for Generalized Deepfake Detection},
   booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   month     = {October},
-  year      = {2025}
+  year      = {2025},
+  note      = {Code: https://github.com/liacaaa/AdvOU (coming soon)}
 }
 
 @InProceedings{Anshul_2025_ICCV,
@@ -212,7 +220,8 @@ Official and third-party implementations of key detection methods:
   title     = {Intra-modal and Cross-modal Synchronization for Audio-visual Deepfake Detection and Temporal Localization},
   booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   month     = {October},
-  year      = {2025}
+  year      = {2025},
+  note      = {Code: https://github.com/AshutoshAnshul/ics-av-deepfake (coming soon)}
 }
 ```
 
@@ -224,15 +233,17 @@ Official and third-party implementations of key detection methods:
   title     = {Improving Fairness in Deepfake Detection},
   booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
   month     = {January},
-  year      = {2024}
+  year      = {2024},
+  note      = {Code: https://github.com/littlejuyan/DF_Fairness (coming soon)}
 }
 
-@InProceedings{Hooda_2024_WACV,
+@InProceedings{Hooda_2024_WACV_D4,
   author    = {Hooda, Ashish and Mangaokar, Neal and Feng, Ryan and Fawaz, Kassem and Jha, Somesh and Prakash, Atul},
   title     = {D4: Detection of Adversarial Diffusion Deepfakes Using Disjoint Ensembles},
   booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
   month     = {January},
-  year      = {2024}
+  year      = {2024},
+  note      = {Code: https://github.com/nmangaokar/wacv_24_d4}
 }
 
 @InProceedings{Demir_2024_WACV,
@@ -247,13 +258,14 @@ Official and third-party implementations of key detection methods:
 ### BMVC 2024-2025
 
 ```bibtex
-@inproceedings{Li_2025_BMVC,
+@inproceedings{Li_2025_BMVC_LFM,
   author    = {Mingliang Li and Hanxi Li and Lin Yuanbo Wu and Changhong Liu},
   title     = {A Novel Local Focusing Mechanism for Deepfake Detection Generalization},
   booktitle = {36th British Machine Vision Conference 2025, {BMVC} 2025, Sheffield, UK},
   publisher = {BMVA},
   year      = {2025},
-  url       = {https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_457/paper.pdf}
+  url       = {https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_457/paper.pdf},
+  note      = {Code: https://github.com/lmlpy/LFM}
 }
 
 @inproceedings{Tian_2025_BMVC,
@@ -265,13 +277,14 @@ Official and third-party implementations of key detection methods:
   url       = {https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_722/paper.pdf}
 }
 
-@inproceedings{Ye_2024_BMVC,
+@inproceedings{Ye_2024_BMVC_DFS,
   author    = {Wei Ye and Xinan He and Feng Ding},
   title     = {Decoupling Forgery Semantics for Generalizable Deepfake Detection},
   booktitle = {35th British Machine Vision Conference 2024, {BMVC} 2024, Glasgow, UK},
   publisher = {BMVA},
   year      = {2024},
-  url       = {https://papers.bmvc2024.org/0401.pdf}
+  url       = {https://papers.bmvc2024.org/0401.pdf},
+  note      = {Code: https://github.com/leaffeall/DFS-GDD}
 }
 ```
 
@@ -319,9 +332,9 @@ deepfake-detection-survey/
 ├── CITATION.md              # Citation information
 ├── datasets/                # Dataset information and download scripts
 │   ├── README.md
-│   ├── face-manipulation/
-│   └── synthetic-images/
+│   └── download_datasets.sh
 ├── benchmarks/              # Performance benchmarks
+│   ├── README.md
 │   ├── quantitative/        # Tables and metrics
 │   └── qualitative/         # Visual comparisons
 ├── implementations/         # Links to code implementations
@@ -354,3 +367,9 @@ This repository is for academic purposes. Please cite our paper if you use this 
 ## 📧 Contact
 
 For questions or collaborations, please contact the authors through the paper's corresponding email.
+
+---
+
+## 🔄 Last Updated
+
+December 2025 — Added ICCV 2025, WACV 2024, BMVC 2024-2025, and CVPR 2023 papers with verified GitHub links and code availability status.
