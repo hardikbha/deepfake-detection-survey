@@ -30,6 +30,96 @@
 **Related Resources:** 
 - [Awesome-Deepfakes-Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
 - [Awesome-Deepfakes-Materials](https://github.com/datamllab/awesome-deepfakes-materials)
+- [Awesome-Face-Forgery-Generation-and-Detection](https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection)
+
+---
+
+## 🎭 Face Forgery Generation Methods
+
+### Face Swap
+
+| Method | Year | Venue | Links |
+|--------|:----:|:-----:|:-----:|
+| **DeepFaceLab** | 2020 | arXiv | [Paper](https://arxiv.org/pdf/2005.05535.pdf) [Code](https://github.com/iperov/DeepFaceLab) |
+| FaceSwap | — | GitHub | [Code](https://github.com/deepfakes/faceswap) |
+| **FSGAN** | 2019 | ICCV | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf) [Code](https://github.com/YuvalNirkin/fsgan) |
+| **FSGANv2** | 2022 | TPAMI | [Paper](https://arxiv.org/abs/2202.12972) |
+| **SimSwap** | 2020 | ACM MM | [Paper](https://arxiv.org/abs/2106.06340) [Code](https://github.com/neuralchen/SimSwap) |
+| **HifiFace** | 2021 | IJCAI | [Paper](https://arxiv.org/abs/2106.09965) [Code](https://github.com/johannwyh/HifiFace) |
+| One Shot Face Swapping on Megapixels | 2021 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_One_Shot_Face_Swapping_on_Megapixels_CVPR_2021_paper.pdf) [Code](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels) |
+| **MobileFaceSwap** | 2022 | AAAI | [Paper](https://arxiv.org/abs/2201.03808) |
+| High-resolution face swapping via latent semantics | 2022 | AAAI | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_High-Resolution_Face_Swapping_via_Latent_Semantics_Disentanglement_CVPR_2022_paper.pdf) [Code](https://github.com/cnnlstm/FSLSD_HiRes) |
+
+### Attribute Manipulation
+
+| Method | Year | Venue | Links |
+|--------|:----:|:-----:|:-----:|
+| **StarGAN** | 2018 | CVPR | [Paper](https://zpascal.net/cvpr2018/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf) [Code](https://github.com/yunjey/stargan) |
+| **StarGAN v2** | 2020 | CVPR | [Paper](https://arxiv.org/abs/1912.01865) [Code](https://github.com/clovaai/stargan-v2) |
+| **AttGAN** | 2019 | TIP | [Paper](http://vipl.ict.ac.cn/uploadfile/upload/2019112511573287.pdf) [Code](https://github.com/LynnHo/AttGAN-Tensorflow) |
+| **STGAN** | 2019 | CVPR | [Paper](https://zpascal.net/cvpr2019/Liu_STGAN_A_Unified_Selective_Transfer_Network_for_Arbitrary_Image_Attribute_CVPR_2019_paper.pdf) [Code](https://github.com/csmliu/STGAN) |
+| **MaskGAN** | 2020 | CVPR | [Paper](https://arxiv.org/abs/1907.11922) [Code](https://github.com/switchablenorms/CelebAMask-HQ) |
+| **InterFaceGAN** | 2020 | TPAMI | [Paper](https://arxiv.org/pdf/2005.09635.pdf) [Code](https://github.com/genforce/interfacegan) |
+| **StyleFlow** | 2021 | ACM TOG | [Paper](https://arxiv.org/abs/2008.02401) [Code](https://github.com/RameenAbdal/StyleFlow) |
+| **HairCLIP** | 2022 | CVPR | [Paper](https://arxiv.org/abs/2112.05142) [Code](https://github.com/wty-ustc/HairCLIP) |
+| **TransEditor** | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_TransEditor_Transformer-Based_Dual-Space_GAN_for_Highly_Controllable_Facial_Editing_CVPR_2022_paper.pdf) [Code](https://github.com/BillyXYB/TransEditor) |
+| **FENeRF** | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_FENeRF_Face_Editing_in_Neural_Radiance_Fields_CVPR_2022_paper.pdf) [Code](https://github.com/MrTornado24/FENeRF) |
+
+### Expression Reenactment
+
+| Method | Year | Venue | Links |
+|--------|:----:|:-----:|:-----:|
+| **Face2Face** | 2016 | CVPR | [Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Thies_Face2Face_Real-Time_Face_CVPR_2016_paper.pdf) |
+| **ReenactGAN** | 2018 | ECCV | [Paper](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2018_reenactgan.pdf) [Code](https://github.com/wywu/ReenactGAN) |
+| **GANimation** | 2018 | ECCV | [Paper](http://www.iri.upc.edu/files/scidoc/2052-GANimation:-Anatomically-aware-Facial-Animation-from-a-Single-Image.pdf) [Code](https://github.com/albertpumarola/GANimation) |
+| Few-shot Neural Talking Head Models | 2019 | ICCV | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zakharov_Few-Shot_Adversarial_Learning_of_Realistic_Neural_Talking_Head_Models_ICCV_2019_paper.pdf) |
+| **MarioNETte** | 2020 | AAAI | [Paper](https://arxiv.org/abs/1911.08139) |
+| One-Shot Free-View Neural Talking-Head Synthesis | 2021 | CVPR | [Paper](https://arxiv.org/abs/2011.15126) [Code](https://nvlabs.github.io/face-vid2vid/) |
+| **AD-NeRF** | 2021 | ICCV | [Paper](https://arxiv.org/abs/2103.11078) [Code](https://github.com/YudongGuo/AD-NeRF) |
+| **DaGAN** | 2022 | CVPR | [Paper](https://arxiv.org/abs/2203.06605) [Code](https://github.com/harlanhong/CVPR2022-DaGAN) |
+
+### Cross-modality Manipulation (Audio/Text-driven)
+
+| Method | Year | Venue | Links |
+|--------|:----:|:-----:|:-----:|
+| **Synthesizing Obama** | 2017 | TOG | [Paper](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf) [Code](https://github.com/supasorn/synthesizing_obama_network_training) |
+| **Wav2Lip** | 2020 | ACM MM | [Paper](https://arxiv.org/abs/2008.10010) [Code](https://github.com/Rudrabha/Wav2Lip) |
+| **MakeItTalk** | 2020 | Siggraph Asia | [Paper](https://arxiv.org/abs/2004.12992) [Code](https://github.com/yzhou359/MakeItTalk) |
+| **StyleCLIP** | 2021 | ICCV | [Paper](https://arxiv.org/abs/2103.17249) [Code](https://github.com/orpatashnik/StyleCLIP) |
+| **TediGAN** | 2021 | CVPR | [Paper](https://arxiv.org/abs/2012.03308) [Code](https://github.com/IIGROUP/TediGAN) |
+| **GLIDE** | 2022 | ICML | [Paper](https://arxiv.org/abs/2112.10741) [Code](https://github.com/openai/glide-text2im) |
+| **DiffusionCLIP** | 2022 | WACV/CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) [Code](https://github.com/gwang-kim/DiffusionCLIP) |
+| **AnyFace** | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_AnyFace_Free-Style_Text-To-Face_Synthesis_and_Manipulation_CVPR_2022_paper.pdf) |
+
+---
+
+## 📖 Additional Survey Papers
+
+| Title | Year | Venue | Link |
+|-------|:----:|:-----:|:----:|
+| Deep Learning for Deepfakes Creation and Detection | 2019 | arXiv | [Paper](https://arxiv.org/pdf/1909.11573.pdf) |
+| DeepFakes and Beyond: Face Manipulation Survey | 2020 | Information Fusion | [Paper](https://arxiv.org/pdf/2001.00179.pdf) |
+| Media Forensics and DeepFakes: an Overview | 2020 | IEEE JSTSP | [Paper](https://arxiv.org/pdf/2001.06564.pdf) |
+| The Creation and Detection of Deepfakes: A Survey | 2021 | CSUR | [Paper](https://arxiv.org/pdf/2004.11138.pdf) |
+| Countering Malicious DeepFakes: Survey, Battleground, and Horizon | 2022 | IJCV | [Paper](https://arxiv.org/abs/2103.00218) |
+| GAN-generated Faces Detection: A Survey | 2022 | arXiv | [Paper](https://arxiv.org/abs/2202.07145) |
+| Deepfake Detection: A Systematic Literature Review | 2022 | IEEE Access | [Paper](https://ieeexplore.ieee.org/document/9721302) |
+| A Continual Deepfake Detection Benchmark | 2022 | arXiv | [Paper](https://arxiv.org/abs/2205.05467) |
+
+---
+
+## 🔒 Spoofing & Adversarial Attack on Detectors
+
+| Paper | Year | Venue | Links |
+|-------|:----:|:-----:|:-----:|
+| Adversarial Perturbations Fool Deepfake Detectors | 2020 | IJCNN | [Paper](https://arxiv.org/pdf/2003.10596.pdf) [Code](https://github.com/ApGa/adversarial_deepfakes) |
+| Disrupting DeepFakes: Adversarial Attacks | 2020 | ECCV | [Paper](https://arxiv.org/pdf/2003.01279.pdf) [Code](https://github.com/natanielruiz/disrupting-deepfakes) |
+| **FakePolisher**: Making DeepFakes Detection-Evasive | 2020 | ACM MM | [Paper](https://arxiv.org/pdf/2006.07533.pdf) |
+| Adversarial Deepfakes: Evaluating Vulnerability | 2021 | WACV | [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Hussain_Adversarial_Deepfakes_Evaluating_Vulnerability_of_Deepfake_Detectors_to_Adversarial_Examples_WACV_2021_paper.pdf) |
+| **MagDR**: Mask-guided Detection and Reconstruction | 2021 | CVPR | [Paper](https://arxiv.org/abs/2103.14211) |
+| **TAFIM**: Targeted Adversarial Attacks | 2022 | ECCV | [Paper](https://arxiv.org/abs/2112.09151) [Code](https://shivangi-aneja.github.io/projects/tafim/) |
+| Exploring Frequency Adversarial Attacks | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Exploring_Frequency_Adversarial_Attacks_for_Face_Forgery_Detection_CVPR_2022_paper.pdf) |
+| Proactive Image Manipulation Detection | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Asnani_Proactive_Image_Manipulation_Detection_CVPR_2022_paper.pdf) [Code](https://github.com/vishal3477/proactive_IMD) |
 
 ---
 
