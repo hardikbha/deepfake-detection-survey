@@ -108,6 +108,7 @@
 
 ---
 
+
 ## 🔒 Spoofing & Adversarial Attack on Detectors
 
 | Paper | Year | Venue | Links |
@@ -120,6 +121,86 @@
 | **TAFIM**: Targeted Adversarial Attacks | 2022 | ECCV | [Paper](https://arxiv.org/abs/2112.09151) [Code](https://shivangi-aneja.github.io/projects/tafim/) |
 | Exploring Frequency Adversarial Attacks | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Exploring_Frequency_Adversarial_Attacks_for_Face_Forgery_Detection_CVPR_2022_paper.pdf) |
 | Proactive Image Manipulation Detection | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Asnani_Proactive_Image_Manipulation_Detection_CVPR_2022_paper.pdf) [Code](https://github.com/vishal3477/proactive_IMD) |
+| **CMUA-Watermark**: Cross-Model Universal Adversarial | 2022 | AAAI | [Paper](https://arxiv.org/abs/2105.10872) [Code](https://github.com/VDIGPKU/CMUA-Watermark) |
+| DeepFake Disrupter: The Detector Is My Friend | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_DeepFake_Disrupter_The_Detector_of_DeepFake_Is_My_Friend_CVPR_2022_paper.pdf) |
+
+---
+
+## 🖼️ GAN Image Generation (Target-generic)
+
+| Method | Year | Venue | Links |
+|--------|:----:|:-----:|:-----:|
+| **GAN** (Original) | 2014 | NeurIPS | [Paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) [Code](https://github.com/goodfeli/adversarial) |
+| **DCGAN** | 2016 | ICLR | [Paper](https://arxiv.org/pdf/1511.06434.pdf) [Code](https://github.com/Newmu/dcgan_code) |
+| **ProGAN** | 2018 | ICLR | [Paper](https://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of/karras2018iclr-paper.pdf) [Code](https://github.com/tkarras/progressive_growing_of_gans) |
+| **BigGAN** | 2019 | ICLR | [Paper](https://arxiv.org/pdf/1809.11096.pdf) [Code](https://github.com/ajbrock/BigGAN-PyTorch) |
+| **StyleGAN** | 2019 | CVPR | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) [Code](https://github.com/NVlabs/stylegan) |
+| **StyleGAN2** | 2020 | CVPR | [Paper](https://arxiv.org/abs/1912.04958) [Code](https://github.com/NVlabs/stylegan2) |
+| **StyleGAN3** | 2021 | NeurIPS | [Paper](https://arxiv.org/abs/2106.12423) [Code](https://github.com/NVlabs/stylegan3) |
+| **ALAE** (Adversarial Latent Autoencoder) | 2020 | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pidhorskyi_Adversarial_Latent_Autoencoders_CVPR_2020_paper.pdf) [Code](https://github.com/podgorskiy/ALAE) |
+| **CUT** (Contrastive I2I Translation) | 2020 | ECCV | [Paper](https://arxiv.org/pdf/2007.15651.pdf) [Code](https://github.com/taesungp/contrastive-unpaired-translation) |
+| **GANSpace**: Discovering Interpretable GAN Controls | 2020 | NeurIPS | [Paper](https://proceedings.neurips.cc/paper/2020/file/6fe43269967adbb64ec6149852b5cc3e-Paper.pdf) [Code](https://github.com/harskish/ganspace) |
+| **StyleSwin**: Transformer-based GAN | 2022 | CVPR | [Paper](https://arxiv.org/abs/2112.10762) [Code](https://github.com/microsoft/StyleSwin) |
+| Diffusion Models Beat GANs on Image Synthesis | 2021 | NeurIPS | [Paper](https://openreview.net/forum?id=AAWuCvzaVt) |
+
+---
+
+## 🎧 Audio-Visual Multi-modal Detection
+
+| Paper | Year | Venue | Links |
+|-------|:----:|:-----:|:-----:|
+| Emotions Don't Lie: Audio-Visual Affective Cues | 2020 | ACM MM | [Paper](https://arxiv.org/abs/2003.06711) |
+| Not Made for Each Other: Audio-Visual Dissonance | 2020 | ACM MM | [Paper](https://arxiv.org/pdf/2005.14405.pdf) [Code](https://github.com/abhinavdhall/deepfake/tree/main/ACM_MM_2020) |
+| **FakeAVCeleb**: Audio-Video Multimodal Dataset | 2021 | NeurIPS | [Paper](https://arxiv.org/abs/2108.05080) [Download](https://sites.google.com/view/fakeavcelebdash-lab/) |
+| Joint Audio-Visual Deepfake Detection | 2021 | ICCV | [Paper](https://ieeexplore.ieee.org/document/9710387) |
+| Audio-Visual Attention Based Multimodal Network | 2022 | arXiv | [Paper](https://arxiv.org/abs/2203.05178) |
+| Self-supervised Transformer for Deepfake Detection | 2022 | arXiv | [Paper](https://arxiv.org/pdf/2203.01265v1.pdf) |
+| Audio-Visual Person-of-Interest DeepFake Detection | 2022 | arXiv | [Paper](https://arxiv.org/abs/2204.03083) [Code](https://github.com/grip-unina/poi-forensics) |
+| Do You Really Mean That? Content Driven Detection | 2022 | arXiv | [Paper](https://arxiv.org/abs/2204.06228) |
+
+---
+
+## 🔍 Spatial Clue Detection Methods
+
+| Paper | Year | Venue | Links |
+|-------|:----:|:-----:|:-----:|
+| Capsule-Forensics: Using Capsule Networks | 2019 | ICASSP | [Paper](https://arxiv.org/pdf/1810.11215.pdf) [Code](https://github.com/nii-yamagishilab/Capsule-Forensics) |
+| Multi-task Learning for Detecting Manipulated Faces | 2019 | BTAS | [Paper](https://arxiv.org/pdf/1906.06876.pdf) [Code](https://github.com/nii-yamagishilab/ClassNSeg) |
+| Attributing Fake Images to GANs | 2019 | ICCV | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_GAN_Fingerprints_ICCV_2019_paper.pdf) [Code](https://github.com/ningyu1991/GANFingerprints) |
+| Global Texture Enhancement for Fake Face Detection | 2020 | CVPR | [Paper](https://arxiv.org/pdf/2002.00133.pdf) |
+| On the Detection of Digital Face Manipulation | 2020 | CVPR | [Paper](https://arxiv.org/pdf/1910.01717.pdf) |
+| **F3-Net**: Thinking in Frequency | 2020 | ECCV | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570086.pdf) |
+| What Makes Fake Images Detectable? | 2020 | ECCV | [Paper](https://arxiv.org/pdf/2008.10588.pdf) [Code](https://github.com/chail/patch-forensics) |
+| **FakeLocator**: Robust Localization of GAN-Based Manipulations | 2022 | TIFS | [Paper](https://ieeexplore.ieee.org/document/9673747) |
+| Eyes Tell All: Irregular Pupil Shapes Reveal GANs | 2022 | ICASSP | [Paper](https://ieeexplore.ieee.org/document/9746597) |
+| Video Face Manipulation Detection via CNNs Ensemble | 2021 | ICPR | [Paper](https://arxiv.org/pdf/2004.07676.pdf) [Code](https://github.com/polimi-ispl/icpr2020dfdc) |
+| Multi-attentional Deepfake Detection | 2021 | CVPR | [Paper](https://arxiv.org/abs/2103.02406) [Code](https://github.com/yoctta/multiple-attention) |
+| **M2TR**: Multi-modal Multi-scale Transformers | 2021 | arXiv | [Paper](https://arxiv.org/abs/2104.09770) [Code](https://github.com/wangjk666/M2TR-Multi-modal-Multi-scale-Transformers-for-Deepfake-Detection) |
+| Local Relation Learning for Face Forgery Detection | 2021 | AAAI | [Paper](https://arxiv.org/abs/2105.02577) |
+
+---
+
+## ⏱️ Temporal Clue Detection Methods
+
+| Paper | Year | Venue | Links |
+|-------|:----:|:-----:|:-----:|
+| **MesoNet**: A Compact Facial Video Detection Network | 2018 | WIFS | [Paper](https://arxiv.org/pdf/1809.00888.pdf) [Code](https://github.com/DariusAf/MesoNet) |
+| In Ictu Oculi: Exposing AI by Eye Blinking | 2018 | WIFS | [Paper](https://arxiv.org/pdf/1806.02877.pdf) [Code](https://github.com/danmohaha/WIFS2018_In_Ictu_Oculi) |
+| Deepfake Video Detection Using RNNs | 2018 | AVSS | [Paper](https://gangw.cs.illinois.edu/class/cs598/papers/AVSS18-deepfake.pdf) |
+| Exposing Deep Fakes Using Inconsistent Head Poses | 2019 | ICASSP | [Paper](https://arxiv.org/pdf/1811.00661.pdf) |
+| Protecting World Leaders Against Deep Fakes | 2019 | CVPRW | [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf) |
+| **FakeCatcher**: Detection using Biological Signals | 2020 | TPAMI | [Paper](https://arxiv.org/pdf/1901.02212.pdf) |
+| **DeepRhythm**: Exposing with Attentional Heartbeat Rhythms | 2020 | ACM MM | [Paper](https://arxiv.org/pdf/2006.07634.pdf) |
+| Sharp Multiple Instance Learning for Detection | 2020 | ACM MM | [Paper](https://arxiv.org/pdf/2008.04585.pdf) [Code](https://github.com/fiona-lxd/S-MIL) |
+| Two-branch Recurrent Network for Isolating Deepfakes | 2020 | ECCV | [Paper](https://arxiv.org/pdf/2008.03412.pdf) |
+| **ID-Reveal**: Identity-aware DeepFake Video Detection | 2021 | ICCV | [Paper](https://arxiv.org/abs/2012.02512) [Code](https://github.com/grip-unina/id-reveal) |
+| Video Transformer for Deepfake Detection | 2021 | ACM MM | [Paper](https://arxiv.org/abs/2108.05307) |
+| Detecting Deepfake Videos with Temporal Dropout 3DCNN | 2021 | IJCAI | [Paper](https://www.ijcai.org/proceedings/2021/178) |
+| Spatiotemporal Inconsistency Learning for Detection | 2021 | ACM MM | [Paper](https://arxiv.org/abs/2109.01860) |
+| Combining EfficientNet and Vision Transformers | 2021 | arXiv | [Paper](https://arxiv.org/abs/2107.02612) [Code](https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection) |
+| Leveraging Real Talking Faces via Self-Supervision | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Haliassos_Leveraging_Real_Talking_Faces_via_Self-Supervision_for_Robust_Forgery_Detection_CVPR_2022_paper.pdf) |
+| Delving into the Local: Dynamic Inconsistency Learning | 2022 | AAAI | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19955) |
+| **FInfer**: Frame Inference-Based Deepfake Detection | 2022 | AAAI | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19978) |
 
 ---
 
