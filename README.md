@@ -213,7 +213,7 @@ The rapid evolution of generative models has enabled the creation of highly real
 | **RECCE** | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_End-to-End_Reconstruction-Classification_Learning_for_Face_Forgery_Detection_CVPR_2022_paper.pdf) |
 | **CrossDF** | 2023 | arXiv | [Paper](https://arxiv.org/abs/2309.00987) |
 | **HAMMER** | 2024 | NeurIPS | [Paper](https://arxiv.org/abs/2310.07906) |
-| **D³** | 2025 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_D3_Scaling_Up_Deepfake_Detection_by_Learning_from_Discrepancy_CVPR_2025_paper.pdf) |
+| **D³** | 2025 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_D3_Scaling_Up_Deepfake_Detection_by_Learning_from_Discrepancy_CVPR_2025_paper.pdf) [Code](https://github.com/BigAandSmallq/D3) |
 
 ### VLM & Multimodal Detection
 
@@ -372,7 +372,7 @@ The rapid evolution of generative models has enabled the creation of highly real
 |--------|-------|:----:|
 | **DeepfakeBench** | NeurIPS 2023 | [SCLBD/DeepfakeBench](https://github.com/SCLBD/DeepfakeBench) |
 | **FaceForensics++** | ICCV 2019 | [ondyari/FaceForensics](https://github.com/ondyari/FaceForensics) |
-| **D³** | CVPR 2025 | Coming Soon |
+| **D³** | CVPR 2025 | [BigAandSmallq/D3](https://github.com/BigAandSmallq/D3) |
 | **SIDA** | CVPR 2025 | [hzlsaber/SIDA](https://github.com/hzlsaber/SIDA) |
 | **LAA-Net** | CVPR 2024 | [10Ring/LAA-Net](https://github.com/10Ring/LAA-Net) |
 | **TALL** | ICCV 2023 | [rainy-xu/TALL4Deepfake](https://github.com/rainy-xu/TALL4Deepfake) |
