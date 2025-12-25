@@ -180,6 +180,8 @@ The rapid evolution of generative models has enabled the creation of highly real
 | In Ictu Oculi: Eye Blinking | 2018 | WIFS | [Paper](https://arxiv.org/pdf/1806.02877.pdf) [Code](https://github.com/danmohaha/WIFS2018_In_Ictu_Oculi) |
 | Face Warping Artifacts | 2018 | CVPRW | [Paper](https://arxiv.org/abs/1811.00656) |
 | Multi-task Learning | 2019 | BTAS | [Paper](https://arxiv.org/pdf/1906.06876.pdf) [Code](https://github.com/nii-yamagishilab/ClassNSeg) |
+| **ADDNet** (WildDeepfake) | 2020 | ACM MM | [Paper](https://dl.acm.org/doi/10.1145/3394171.3413769) [Code](https://github.com/OpenTAI/wild-deepfake) |
+| **CNNDetection** (Wang et al.) | 2020 | CVPR | [Paper](https://arxiv.org/abs/1912.11035) [Code](https://github.com/PeterWang512/CNNDetection) |
 | **Face X-Ray** | 2020 | CVPR | [Paper](https://arxiv.org/abs/1912.13458) |
 | **F3-Net** | 2020 | ECCV | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570086.pdf) [Code](https://github.com/yyk-wew/F3-Net) |
 
@@ -265,7 +267,7 @@ The rapid evolution of generative models has enabled the creation of highly real
 | **Celeb-DF** | 2020 | 5.6K videos | Improved autoencoder swaps | [GitHub](https://github.com/yuezunli/celeb-deepfakeforensics) |
 | **DFDC** | 2020 | 100K videos | Multiple synthesis pipelines | [Kaggle](https://www.kaggle.com/c/deepfake-detection-challenge) |
 | **DeeperForensics-1.0** | 2020 | 60K clips | FaceSwap, DeepFake variants | [GitHub](https://github.com/EndlessSora/DeeperForensics-1.0) |
-| **WildDeepfake** | 2020 | 7K clips | In-the-wild deepfakes | [GitHub](https://github.com/deepfakeinthewild/deepfake-in-the-wild) |
+| **WildDeepfake** | 2020 | 7,314 faces / 707 videos | In-the-wild internet deepfakes | [HuggingFace](https://huggingface.co/datasets/xingjunm/WildDeepfake) [GitHub](https://github.com/OpenTAI/wild-deepfake) |
 | **FakeAVCeleb** | 2021 | 20K clips | Audio-Video multimodal | [Website](https://sites.google.com/view/fakeavcelebdash-lab/) |
 | **DFDC Preview** | 2019 | 5K videos | Facebook challenge preview | [Kaggle](https://www.kaggle.com/c/deepfake-detection-challenge) |
 
@@ -274,8 +276,10 @@ The rapid evolution of generative models has enabled the creation of highly real
 | Dataset | Year | Scale | Generation Techniques | Links |
 |---------|:----:|:-----:|----------------------|:-----:|
 | **iFakeFaceDB** | 2021 | 63K images | Autoencoder + GAN hybrids | — |
-| **GenImage** | 2023 | 1.2M images | StyleGAN3, BigGAN, Diffusion | [GitHub](https://github.com/GenImage-Dataset/GenImage) |
+| **GenImage** | 2023 | 1.2M images | StyleGAN3, BigGAN, Diffusion (8 generators) | [GitHub](https://github.com/GenImage-Dataset/GenImage) [Drive](https://drive.google.com/drive/folders/1jGt10bwTbhEZuGXLyvrCuxOI0cBqQ1FS) |
 | **DiffusionDB** | 2023 | 14M images | Stable Diffusion, Imagen | [Website](https://poloclub.github.io/diffusiondb/) |
+| **DeepFakeFace** | 2023 | — | OpenRL synthetic faces | [GitHub](https://github.com/OpenRL/DeepFakeFace) |
+| **UFD / CNNDetection** | 2020 | — | ProGAN generated images | [GitHub](https://github.com/PeterWang512/CNNDetection) |
 | **AI-Forensics** | 2024 | 2.1M images | GAN + Diffusion + NeRF | — |
 | **SID-Set** (SIDA) | 2025 | 300K images | Social media AI images | [GitHub](https://github.com/hzlsaber/SIDA) |
 
