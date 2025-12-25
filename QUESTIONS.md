@@ -1,73 +1,104 @@
-# ❓ Questions & Missing Information
+# 📋 Questions for Expanding Benchmark Table
 
-This document tracks missing information that requires user input or further research.
+## Cross-Dataset Performance (AUC %)
 
----
-
-## ✅ Resolved Items
-
-### Dataset Links (RESOLVED)
-The following dataset links have been added:
-
-| Dataset | Status | Link |
-|---------|--------|------|
-| FFIW-10K | ✅ Added | [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfKOKwsqL0c9Y6gH-1LTue8V7xAfVsgYDa0gRP2NnpufAOfJA/viewform) |
-| Deepfake-Eval-2024 | ✅ Added | [HuggingFace](https://huggingface.co/datasets/nuriachandra/Deepfake-Eval-2024) |
-| DF-Platter | ✅ Added | [Google Drive](https://drive.google.com/drive/folders/1GeR-a2LfcMkcY6Qzpv2TP8utLtYFBmTs) |
-| DFDM | ✅ Added | [Google Drive](https://drive.google.com/drive/folders/1aXxeMdA2qwjDytyIgr4CBMVy4pAWizdX) |
-
-### Author Info (RESOLVED)
-- ✅ Authors: Hardik Sharma, Sachin Chaudhary, Praful Hambarde, Akshay Dudhane
-- ✅ Contact: hhardikssharma@gmail.com
-- ✅ Journal mention removed as requested
+To make the benchmark table more comprehensive, I need performance metrics from papers. Here's what I need:
 
 ---
 
-## 🔴 Missing GitHub Repositories
+## 🔍 What I Need From You
 
-The following papers do not have publicly available code:
+### 1. Do you have your own survey paper with benchmark results?
+If yes, please share the PDF or the table of results from your paper.
 
-| Paper | Conference | Status |
-|-------|------------|--------|
-| FakeRadar | ICCV 2025 | ❌ No code found |
-| DeepShield | ICCV 2025 | ❌ No code found |
-| Generalization-Preserved Learning | ICCV 2025 | ❌ No code found |
-| Motion Magnification | WACV 2024 | ❌ No code found |
-| Unsupervised Multimodal Detection | BMVC 2025 | ❌ No code found |
+### 2. Which datasets should I include?
+Currently I have: `FF++ (c23)`, `Celeb-DF`, `DFDC`
 
----
+**Other popular datasets to add:**
+- [ ] FF++ (c40) - raw/high compression
+- [ ] DeeperForensics-1.0
+- [ ] DFDC Preview
+- [ ] WildDeepfake
+- [ ] FaceShifter
+- [ ] Celeb-DF v1/v2
 
-## 🟡 Pending Code Releases
-
-These repositories exist but code is not yet uploaded:
-
-| Paper | GitHub | Status |
-|-------|--------|--------|
-| AdvOU | [liacaaa/AdvOU](https://github.com/liacaaa/AdvOU) | ⏳ Placeholder only |
-| ICS-AV-Deepfake | [AshutoshAnshul/ics-av-deepfake](https://github.com/AshutoshAnshul/ics-av-deepfake) | ⏳ Coming soon |
-| DF_Fairness | [littlejuyan/DF_Fairness](https://github.com/littlejuyan/DF_Fairness) | ⏳ Coming soon |
+**Which ones do you want?**
 
 ---
 
-## 🟠 Still Needed
+### 3. Which methods should I include?
+I can look up performance for these (check the ones you want):
 
-| Item | Status |
-|------|--------|
-| OW-DFA++ dataset link | ❓ N/A in CSV |
-| Performance metrics for new methods | ❓ Need to extract from papers |
+**Classic Methods (2018-2020):**
+- [ ] MesoNet (2018)
+- [ ] XceptionNet (2019)
+- [ ] Capsule-Forensics (2019)
+- [ ] Face X-Ray (2020)
+- [ ] F3-Net (2020)
+- [ ] CNN Detection (Wang et al. 2020)
+
+**2021 Methods:**
+- [ ] Multi-Attention (2021)
+- [ ] LipForensics (2021)
+- [ ] FTCN (2021)
+- [ ] RFM (2021)
+- [ ] SRM (2021)
+
+**2022 Methods:**
+- [ ] SBI - Self-Blended Images (2022)
+- [ ] RECCE (2022)
+- [ ] ICT (2022)
+- [ ] OST (2022)
+- [ ] UIA-ViT (2022)
+
+**2023 Methods:**
+- [ ] TALL (2023)
+- [ ] UCF (2023)
+- [ ] AltFreezing (2023)
+- [ ] CADDM (2023)
+- [ ] DeepfakeBench methods (2023)
+
+**2024-2025 Methods:**
+- [ ] LAA-Net (2024)
+- [ ] D3 (2025)
+- [ ] SIDA (2025)
+- [ ] FakeSTormer (2025)
 
 ---
 
-## ✅ Completed
-
-- [x] Add author: Hardik Sharma
-- [x] Add email: hhardikssharma@gmail.com
-- [x] Remove journal mention
-- [x] Add FFIW-10K link
-- [x] Add Deepfake-Eval-2024 link
-- [x] Add DF-Platter link
-- [x] Add DFDM link
+### 4. What metrics do you want?
+- [ ] AUC (%)
+- [ ] Accuracy (%)
+- [ ] EER (%)
+- [ ] F1-Score
 
 ---
 
-*Last updated: December 2025*
+### 5. Training/Testing Protocol
+Which training scenario should I report?
+- [ ] Trained on FF++ c23 → Test on others (cross-dataset)
+- [ ] Trained and tested on same dataset (in-domain)
+- [ ] Both
+
+---
+
+## � Papers You Can Share
+
+If you have PDFs or know specific papers with comprehensive benchmark tables, share them:
+
+1. Your own survey paper
+2. DeepfakeBench paper (NeurIPS 2023) - has extensive benchmarks
+3. Any specific method papers with tables
+
+---
+
+## ✏️ Your Response
+
+Please edit below or create a new file with your answers:
+
+```
+Datasets needed: 
+Methods needed:
+Metrics: 
+Papers to use:
+```
