@@ -204,6 +204,50 @@
 
 ---
 
+## 📄 Papers from User's Collection (PDF)
+
+### Face-Swap Detection (2022-2023)
+
+| Paper | Year | Venue | Links |
+|-------|:----:|:-----:|:-----:|
+| **Implicit Identity Driven** Deepfake Face Swapping Detection | 2023 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Implicit_Identity_Driven_Deepfake_Face_Swapping_Detection_CVPR_2023_paper.pdf) [Code](https://github.com/S-S-Y/Implicit-Identity-Driven-Deepfake-Face-Swapping-Detection) |
+| **AUNet**: Learning Relations Between Action Units | 2023 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.html) |
+| **AltFreezing** for More General Video Face Forgery Detection | 2023 | CVPR | [Paper](https://arxiv.org/abs/2307.08317) [Code](https://github.com/ZhendongWang6/AltFreezing) |
+| **TALL**: Thumbnail Layout for Deepfake Video Detection | 2023 | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_TALL_Thumbnail_Layout_for_Deepfake_Video_Detection_ICCV_2023_paper.html) [Code](https://github.com/YuezunLi/TALL) |
+| **UCF**: Uncovering Common Features for Generalizable Detection | 2023 | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_UCF_Uncovering_Common_Features_for_Generalizable_Deepfake_Detection_ICCV_2023_paper.pdf) [Code](https://github.com/chizhangyan/UCF) |
+| **Multi-scale View-Consistent** Face Swapping Detection | 2023 | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Multi-scale_View-Consistent_Face_Swapping_Detection_ICCV_2023_paper.pdf) |
+| **RECCE**: End-to-End Reconstruction-Classification Learning | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_End-to-End_Reconstruction-Classification_Learning_for_Face_Forgery_Detection_CVPR_2022_paper.pdf) |
+
+### Attribute-Manipulation & Local-Edit Detection
+
+| Paper | Year | Venue | Links |
+|-------|:----:|:-----:|:-----:|
+| **Detecting Localized Deepfake Manipulations** Using AU-Guided Video | 2025 | CVPRW | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SAIAD/papers/Anand_Detecting_Localized_Deepfake_Manipulations_Using_Action_Unit-Guided_Video_Representations_CVPRW_2025_paper.pdf) |
+| **StyleFeatureEditor**: Learning to Edit Local Facial Attributes | 2023 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Abdal_StyleFeatureEditor_Learning_To_Edit_Local_Facial_Attributes_With_StyleGAN_CVPR_2023_paper.html) |
+| **SeqFakeFormer**: Robust Sequential DeepFake Detection | 2023 | arXiv | [Paper](https://arxiv.org/html/2309.14991v2) |
+| **Preserving Annotated Examples**: Attribution and Detectability | 2023 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zonooz_Preserving_Annotated_Examples_Attribution_and_Detectability_of_Localized_Manipulations_CVPR_2023_paper.html) |
+
+### Expression Reenactment & Talking-Head Detection
+
+| Paper | Year | Venue | Links |
+|-------|:----:|:-----:|:-----:|
+| Self-Supervised Video Forensics by Audio-Visual Anomaly Detection | 2023 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Self-Supervised_Video_Forensics_by_Audio-Visual_Anomaly_Detection_CVPR_2023_paper.pdf) |
+| **Lost in Translation**: Lip-Sync Deepfake Detection | 2024 | CVPRW | [Paper](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Bohacek_Lost_in_Translation_Lip-Sync_Deepfake_Detection_from_Audio-Video_Mismatch_CVPRW_2024_paper.pdf) |
+| **Audio-Visual Person-of-Interest** DeepFake Detection | 2023 | CVPRW | [Paper](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Cozzolino_Audio-Visual_Person-of-Interest_DeepFake_Detection_CVPRW_2023_paper.pdf) |
+| **Joint Audio-Visual Learning** for Deepfake Detection | 2023 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chuang_Joint_Audio-Visual_Learning_for_Deepfake_Detection_CVPR_2023_paper.html) |
+
+### Generalization & Modern Methods (2024-2025)
+
+| Paper | Year | Venue | Links |
+|-------|:----:|:-----:|:-----:|
+| **AVFF**: Audio-Visual Feature Fusion for Video Deepfake Detection | 2024 | arXiv | [Paper](https://arxiv.org/abs/2406.02951) |
+| **Detecting Audio-Visual Deepfakes** with Fine-Grained Inconsistencies | 2024 | BMVC | [Paper](https://bmvc2024.org/proceedings/695/) |
+| Improving Generalization with Face Foundation Models | 2025 | CVPRW | [Paper](https://arxiv.org/abs/2408.19730) |
+| **RealID**: Learning Real Facial Concepts for Independent Detection | 2025 | IJCAI | [Paper](https://arxiv.org/abs/2505.04460) |
+| Detecting Deepfakes by Learning a Diverse Set of Forgery Features | 2023 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shiohara_Detecting_Deepfakes_by_Learning_a_Diverse_Set_of_Forgery_Features_CVPR_2023_paper.html) |
+
+---
+
 ## 📅 Image-Based Detection (Year-wise)
 
 ### 2025
