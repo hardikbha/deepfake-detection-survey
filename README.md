@@ -27,7 +27,138 @@
 
 📧 **Contact:** [hhardikssharma@gmail.com](mailto:hhardikssharma@gmail.com)
 
-**Related Resources:** [Awesome-Deepfakes-Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
+**Related Resources:** 
+- [Awesome-Deepfakes-Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
+- [Awesome-Deepfakes-Materials](https://github.com/datamllab/awesome-deepfakes-materials)
+
+---
+
+## 📅 Image-Based Detection (Year-wise)
+
+### 2025
+| Paper | Venue | Links |
+|-------|:-----:|:-----:|
+| **SIDA**: Social Media Image Deepfake Detection with LMM | CVPR | [Paper](https://github.com/hzlsaber/SIDA) [Code](https://github.com/hzlsaber/SIDA) |
+| **D3**: Scaling Up Deepfake Detection by Learning from Discrepancy | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_D3_Scaling_Up_Deepfake_Detection_by_Learning_from_Discrepancy_CVPR_2025_paper.pdf) |
+| **FreqDebias**: Consistency-Driven Frequency Debiasing | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Kashiani_FreqDebias_Towards_Generalizable_Deepfake_Detection_via_Consistency-Driven_Frequency_Debiasing_CVPR_2025_paper.pdf) |
+| **Forensics Adapter**: Adapting CLIP for Face Forgery Detection | CVPR | [Paper](https://arxiv.org/abs/2411.19715) |
+| Rethinking VLM in Face Forensics | CVPR | [Paper](https://arxiv.org/pdf/2503.20188) |
+| **FakeRadar**: Probing Forgery Outliers | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.html) |
+| **DeepShield**: Fortifying Deepfake Detection | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_Analysis_ICCV_2025_paper.html) |
+| **FakeSTormer**: Vulnerability-Aware Spatio-Temporal Learning | ICCV | [Paper](https://arxiv.org/pdf/2501.01184) [Code](https://github.com/10Ring/FakeSTormer) |
+| **FakeShield**: Explainable Image Forgery Detection with MLLM | ICLR | [Paper](https://arxiv.org/pdf/2410.02761) |
+| Hiding Faces in Plain Sight: Defending DeepFakes | TDSC | [Paper](https://ieeexplore.ieee.org/abstract/document/11106399) [Code](https://github.com/OUC-VAS/FacePoison) |
+
+### 2024
+| Paper | Venue | Links |
+|-------|:-----:|:-----:|
+| **LAA-Net**: Localized Artifact Attention Network | CVPR | [Paper](https://arxiv.org/abs/2401.13856) [Code](https://github.com/10Ring/LAA-Net) |
+| Rethinking Up-Sampling Operations for Generalizable Detection | CVPR | [Paper](https://arxiv.org/abs/2312.10461) [Code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection) |
+| Transcending Forgery Specificity with Latent Space Augmentation | CVPR | [Paper](https://arxiv.org/abs/2311.11278) |
+| Exploiting Style Latent Flows for Generalizing Video Detection | CVPR | [Paper](https://arxiv.org/abs/2403.06592) |
+| Preserving Fairness Generalization in Deepfake Detection | CVPR | [Paper](https://arxiv.org/pdf/2402.17229) [Code](https://github.com/Purdue-M2/Fairness-Generalization) |
+| Learning Natural Consistency Representation | ECCV | [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11103.pdf) |
+| Fake It till You Make It: Curricular Dynamic Forgery Augmentations | ECCV | [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11581.pdf) |
+| **FreqBlender**: Enhancing DeepFake Detection by Blending Frequency | NeurIPS | [Paper](https://nips.cc/virtual/2024/poster/93596) |
+| Can We Leave Deepfake Data Behind in Training? | NeurIPS | [Paper](https://arxiv.org/pdf/2408.17052) |
+| **DRCT**: Diffusion Reconstruction Contrastive Training | ICML | [Paper](https://proceedings.mlr.press/v235/chen24ay.html) [Code](https://github.com/beibuwandeluori/DRCT) |
+| Poisoned Forgery Face: Towards Backdoor Attacks | ICLR | [Paper](https://openreview.net/pdf?id=8iTpB4RNvP) [Code](https://github.com/JWLiang007/PFF) |
+| **D4**: Detection of Adversarial Diffusion Deepfakes | WACV | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Hooda_D4_Detection_of_Adversarial_Diffusion_Deepfakes_Using_Disjoint_Ensembles_WACV_2024_paper.html) [Code](https://github.com/nmangaokar/wacv_24_d4) |
+
+### 2023
+| Paper | Venue | Links |
+|-------|:-----:|:-----:|
+| Implicit Identity Leakage: Stumbling Block to Improving Generalization | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Implicit_Identity_Leakage_The_Stumbling_Block_to_Improving_Deepfake_Detection_CVPR_2023_paper.pdf) [Code](https://github.com/megvii-research/CADDM) |
+| **AltFreezing** for More General Face Forgery Detection | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_AltFreezing_for_More_General_Video_Face_Forgery_Detection_CVPR_2023_paper.pdf) |
+| **AUNet**: Learning Relations Between Action Units | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf) |
+| **TruFor**: Leveraging all-round clues for trustworthy image forgery | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.pdf) [Code](https://github.com/grip-unina/TruFor) |
+| Learning on Gradients (LGrad): Generalized Artifacts Representation | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Learning_on_Gradients_Generalized_Artifacts_Representation_for_GAN-Generated_Images_Detection_CVPR_2023_paper.pdf) [Code](https://github.com/chuangchuangtan/LGrad) |
+| Towards Universal Fake Image Detectors | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf) [Code](https://github.com/Yuheng-Li/UniversalFakeDetect) |
+| Self-Supervised Video Forensics by Audio-Visual Anomaly Detection | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Self-Supervised_Video_Forensics_by_Audio-Visual_Anomaly_Detection_CVPR_2023_paper.pdf) [Code](https://github.com/cfeng16/audio-visual-forensics) |
+| **UCF**: Uncovering Common Features for Generalizable Detection | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_UCF_Uncovering_Common_Features_for_Generalizable_Deepfake_Detection_ICCV_2023_paper.pdf) |
+| **TALL**: Thumbnail Layout for Deepfake Video Detection | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_TALL_Thumbnail_Layout_for_Deepfake_Video_Detection_ICCV_2023_paper.pdf) [Code](https://github.com/rainy-xu/TALL4Deepfake) |
+| Quality-Agnostic Deepfake Detection with Intra-model Collaborative Learning | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Le_Quality-Agnostic_Deepfake_Detection_with_Intra-model_Collaborative_Learning_ICCV_2023_paper.pdf) |
+| **DeepfakeBench**: A Comprehensive Benchmark | NeurIPS | [Paper](https://papers.nips.cc/paper_files/paper/2023/file/0e735e4b4f07de483cbe250130992726-Paper-Datasets_and_Benchmarks.pdf) [Code](https://github.com/SCLBD/DeepfakeBench) |
+| **DIRE** for Diffusion-Generated Image Detection | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2023/) [Code](https://github.com/ZhendongWang6/DIRE) |
+| **TI2Net**: Temporal Identity Inconsistency Network | WACV | [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Liu_TI2Net_Temporal_Identity_Inconsistency_Network_for_Deepfake_Detection_WACV_2023_paper.pdf) |
+
+### 2022
+| Paper | Venue | Links |
+|-------|:-----:|:-----:|
+| Detecting Deepfakes with Self-Blended Images | CVPR | [Paper](https://arxiv.org/abs/2204.08376) [Code](https://github.com/mapooon/SelfBlendedImages) |
+| Self-supervised Learning of Adversarial Example | CVPR | [Paper](https://arxiv.org/abs/2203.12208) [Code](https://github.com/liangchen527/SLADD) |
+| Learning Second Order Local Anomaly | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Fei_Learning_Second_Order_Local_Anomaly_for_General_Face_Forgery_Detection_CVPR_2022_paper.html) |
+| DeepFake Disrupter: The Detector of DeepFake Is My Friend | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_DeepFake_Disrupter_The_Detector_of_DeepFake_Is_My_Friend_CVPR_2022_paper.html) |
+| Protecting Celebrities with Identity Consistency Transformer | CVPR | [Paper](https://arxiv.org/abs/2203.01318v3) [Code](https://github.com/LightDXY/ICT_DeepFake) |
+| End-to-End Reconstruction-Classification Learning | CVPR | [Paper](https://vision.sjtu.edu.cn/files/cvpr22_RECCE.pdf) |
+| Hierarchical Contrastive Inconsistency Learning | ECCV | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720588.pdf) |
+| **UIA-ViT**: Unsupervised Inconsistency-Aware Method | ECCV | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650384.pdf) [Code](https://github.com/wany0824/UIA-ViT) |
+| Explaining Deepfake Detection by Analysing Image Matching | ECCV | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740018.pdf) |
+| Detecting and Recovering Sequential DeepFake Manipulation | ECCV | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730710.pdf) [Code](https://github.com/rshaojimmy/SeqDeepFake) |
+| **OST**: Improving Generalization via One-Shot Test-Time Training | NeurIPS | [Paper](https://openreview.net/forum?id=YPoRoad6gzY) [Code](https://github.com/liangchen527/OST) |
+| Delving into Sequential Patches for Deepfake Detection | NeurIPS | [Paper](https://openreview.net/forum?id=osPA8Bs4MJB) |
+| Deepfake Network Architecture Attribution | AAAI | [Paper](https://arxiv.org/abs/2202.13843) [Code](https://github.com/ICTMCG/DNA-Det) |
+| **FrePGAN**: Robust Deepfake Detection Using Frequency-level Perturbations | AAAI | [Paper](https://arxiv.org/abs/2202.03347) |
+| **CMUA-Watermark**: Cross-Model Universal Adversarial Watermark | AAAI | [Paper](https://arxiv.org/abs/2105.10872) [Code](https://github.com/VDIGPKU/CMUA-Watermark) |
+| Region-Aware Temporal Inconsistency Learning | IJCAI | [Paper](https://www.ijcai.org/proceedings/2022/0129.pdf) |
+| Responsible Disclosure Using Scalable Fingerprinting | ICLR | [Paper](https://openreview.net/pdf?id=sOK-zS6WHB) [Code](https://github.com/ningyu1991/ScalableGANFingerprints) |
+
+### 2021
+| Paper | Venue | Links |
+|-------|:-----:|:-----:|
+| **ForgeryNet**: A Versatile Benchmark for Comprehensive Forgery Analysis | CVPR | [Paper](https://arxiv.org/abs/2103.05630) [Code](https://github.com/yinanhe/forgerynet) |
+| Representative Forgery Mining for Fake Face Detection | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Representative_Forgery_Mining_for_Fake_Face_Detection_CVPR_2021_paper.pdf) [Code](https://github.com/crywang/RFM) |
+| **MagDR**: Mask-Guided Detection and Reconstruction | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_MagDR_Mask-Guided_Detection_and_Reconstruction_for_Defending_Deepfakes_CVPR_2021_paper.pdf) |
+| Multi-Attentional Deepfake Detection | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.html) [Code](https://github.com/yoctta/multiple-attention) |
+| Lips Don't Lie: Generalisable and Robust Approach | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Haliassos_Lips_Dont_Lie_A_Generalisable_and_Robust_Approach_To_Face_CVPR_2021_paper.pdf) |
+| Spatial-Phase Shallow Learning | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Spatial-Phase_Shallow_Learning_Rethinking_Face_Forgery_Detection_in_Frequency_Domain_CVPR_2021_paper.pdf) |
+| Generalizing Face Forgery with High-Frequency Features | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Generalizing_Face_Forgery_Detection_With_High-Frequency_Features_CVPR_2021_paper.pdf) |
+| **ID-Reveal**: Identity-aware DeepFake Video Detection | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cozzolino_ID-Reveal_Identity-Aware_DeepFake_Video_Detection_ICCV_2021_paper.pdf) [Code](https://github.com/grip-unina/id-reveal) |
+| Artificial Fingerprinting for Generative Models | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Artificial_Fingerprinting_for_Generative_Models_Rooting_Deepfake_Attribution_in_Training_ICCV_2021_paper.pdf) [Code](https://github.com/ningyu1991/ArtificialGANFingerprints) |
+| Exploring Temporal Coherence for More General Detection | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Exploring_Temporal_Coherence_for_More_General_Video_Face_Forgery_Detection_ICCV_2021_paper.pdf) [Code](https://github.com/yinglinzheng/FTCN) |
+| **WaveFake**: A Data Set to Facilitate Audio Deepfake Detection | NeurIPS | [Paper](https://arxiv.org/abs/2111.02813) [Code](https://github.com/RUB-SysSec/WaveFake) |
+| Domain General Face Forgery Detection by Learning to Weight | AAAI | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16367) [Code](https://github.com/skJack/LTW) |
+| An Examination of Fairness of AI Models for Deepfake Detection | IJCAI | [Paper](https://www.ijcai.org/proceedings/2021/0079.pdf) |
+| Detecting Deepfake Videos with Temporal Dropout 3DCNN | IJCAI | [Paper](https://www.ijcai.org/proceedings/2021/0178.pdf) |
+| **FReTAL**: Generalizing Deepfake Detection using Knowledge Distillation | CVPR Workshop | [Paper](https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Kim_FReTAL_Generalizing_Deepfake_Detection_Using_Knowledge_Distillation_and_Representation_Learning_CVPRW_2021_paper.pdf) |
+
+### 2020
+| Paper | Venue | Links |
+|-------|:-----:|:-----:|
+| Global Texture Enhancement for Fake Face Detection in the Wild | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Global_Texture_Enhancement_for_Fake_Face_Detection_in_the_Wild_CVPR_2020_paper.pdf) |
+| On the Detection of Digital Face Manipulation | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dang_On_the_Detection_of_Digital_Face_Manipulation_CVPR_2020_paper.pdf) [Code](https://github.com/JStehouwer/FFD_CVPR2020) |
+| Face X-Ray for More General Face Forgery Detection | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Face_X-Ray_for_More_General_Face_Forgery_Detection_CVPR_2020_paper.pdf) |
+| CNN-generated images are surprisingly easy to spot... for now | CVPR | [Paper](https://arxiv.org/abs/1912.11035) [Code](https://github.com/PeterWang512/CNNDetection) |
+| Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Celeb-DF_A_Large-Scale_Challenging_Dataset_for_DeepFake_Forensics_CVPR_2020_paper.pdf) |
+| **DeeperForensics-1.0**: Real-World Face Forgery Detection | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_DeeperForensics-1.0_A_Large-Scale_Dataset_for_Real-World_Face_Forgery_Detection_CVPR_2020_paper.pdf) |
+| **F3-Net**: Thinking in Frequency | ECCV | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570086.pdf) |
+| Two-branch Recurrent Network for Isolating Deepfakes in Videos | ECCV | [Paper](https://arxiv.org/abs/2008.03412) |
+| **AOT**: Appearance Optimal Transport Based Identity Swapping | NeurIPS | [Paper](https://papers.nips.cc/paper/2020/file/f718499c1c8cef6730f9fd03c8125cab-Paper.pdf) |
+| **FakeCatcher**: Detection using Biological Signals | TPAMI | [Paper](https://ieeexplore.ieee.org/abstract/document/9141516/) |
+| **DeepRhythm**: Attentional Visual Heartbeat Rhythms | ACM MM | [Paper](https://dl.acm.org/doi/10.1145/3394171.3413707) |
+| Towards Untrusted Social Video Verification | CVPR Workshop | [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Tursman_Towards_Untrusted_Social_Video_Verification_to_Combat_Deepfakes_via_Face_CVPRW_2020_paper.pdf) |
+| OC-FakeDect: Classifying Deepfakes Using One-class VAE | CVPR Workshop | [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf) |
+| **ICML**: Leveraging Frequency Analysis for Deep Fake Image Recognition | ICML | [Paper](http://proceedings.mlr.press/v119/frank20a/frank20a.pdf) [Code](https://github.com/RUB-SysSec/GANDCTAnalysis) |
+
+### 2019
+| Paper | Venue | Links |
+|-------|:-----:|:-----:|
+| **FaceForensics++**: Learning to Detect Manipulated Facial Images | ICCV | [Paper](https://arxiv.org/abs/1901.08971) [Code](https://github.com/ondyari/FaceForensics) |
+| Attributing Fake Images to GANs: Learning GAN Fingerprints | ICCV | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_GAN_Fingerprints_ICCV_2019_paper.pdf) [Code](https://github.com/ningyu1991/GANFingerprints) |
+| Exposing DeepFake Videos By Detecting Face Warping Artifacts | CVPR Workshop | [Paper](https://arxiv.org/abs/1811.00656) |
+| Protecting World Leaders Against Deep Fakes | CVPR Workshop | [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf) |
+| Recurrent Convolutional Strategies for Face Manipulation Detection | CVPR Workshop | [Paper](https://arxiv.org/abs/1905.00582) |
+| Towards Generalizable Forgery Detection with Locality-aware AutoEncoder | arXiv | [Paper](https://arxiv.org/abs/1909.05999) |
+| Deep Learning for Deepfakes Creation and Detection | arXiv | [Paper](https://arxiv.org/abs/1909.11573) |
+
+### 2018
+| Paper | Venue | Links |
+|-------|:-----:|:-----:|
+| Exposing Deep Fakes Using Inconsistent Head Poses | arXiv | [Paper](https://arxiv.org/abs/1811.00661) |
+| In Ictu Oculi: Exposing AI Fake Videos by Eye Blinking | WIFS | [Paper](https://arxiv.org/abs/1806.02877) |
+| **Capsule-Forensics**: Using Capsule Networks for Detection | arXiv | [Paper](https://arxiv.org/abs/1810.11215) |
+| **MesoNet**: A Compact Facial Video Forgery Detection Network | WIFS | [Paper](https://arxiv.org/abs/1809.00888) |
+| ForensicTransfer: Weakly-supervised Domain Adaptation | arXiv | [Paper](https://arxiv.org/abs/1812.02510) |
 
 ---
 
