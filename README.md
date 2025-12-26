@@ -194,6 +194,8 @@ The rapid evolution of generative models has enabled the creation of highly real
 | **TALL** | 2023 | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_TALL_Thumbnail_Layout_for_Deepfake_Video_Detection_ICCV_2023_paper.html) [Code](https://github.com/YuezunLi/TALL) |
 | Token-Level Shuffling | 2025 | AAAI | [Paper](https://arxiv.org/pdf/2501.04376) |
 | Facial Component Guided | 2025 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Han_Towards_More_General_Video-based_Deepfake_Detection_through_Facial_Component_Guided_CVPR_2025_paper.pdf) |
+| **HICOM** (Multi-Face) | 2025 | ICCV | [Paper](https://arxiv.org/abs/2505.xxxxx) |
+| **Wavelet-CLIP** | 2025 | arXiv | [Paper](https://arxiv.org/abs/2409.18301) |
 
 ### Frequency Domain Analysis
 
@@ -214,6 +216,8 @@ The rapid evolution of generative models has enabled the creation of highly real
 | **CrossDF** | 2023 | arXiv | [Paper](https://arxiv.org/abs/2309.00987) |
 | **HAMMER** | 2024 | NeurIPS | [Paper](https://arxiv.org/abs/2310.07906) |
 | **D³** | 2025 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_D3_Scaling_Up_Deepfake_Detection_by_Learning_from_Discrepancy_CVPR_2025_paper.pdf) [Code](https://github.com/BigAandSmallq/D3) |
+| **PUDD** (Prototype-based) | 2024 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/PUDD_Towards_Robust_Multi-modal_Prototype-based_Deepfake_Detection_CVPR_2024_paper.pdf) |
+| Video-Level Blending | 2025 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2025/) |
 
 ### VLM & Multimodal Detection
 
@@ -225,6 +229,7 @@ The rapid evolution of generative models has enabled the creation of highly real
 | Rethinking VLM in Face Forensics | 2025 | CVPR | [Paper](https://arxiv.org/pdf/2503.20188) |
 | **AntifakePrompt** | 2025 | ICLR | [Paper](https://iclr.cc/virtual/2025/) |
 | **FakeVLM** | 2025 | NeurIPS | [Paper](https://neurips.cc/virtual/2025/) |
+| **DAID** (Fair Detection) | 2025 | NeurIPS | [Paper](https://neurips.cc/virtual/2025/) |
 
 ### Diffusion-Aware Detection
 
@@ -233,8 +238,9 @@ The rapid evolution of generative models has enabled the creation of highly real
 | **DIRE** | 2023 | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DIRE_Diffusion_Reconstruction_Error_for_Fake_Image_Detection_ICCV_2023_paper.pdf) [Code](https://github.com/ZhendongWang6/DIRE) |
 | **DRCT** | 2024 | ICML | [Paper](https://proceedings.mlr.press/v235/chen24ay.html) [Code](https://github.com/beibuwandeluori/DRCT) |
 | **DiffusionForensics** | 2024 | arXiv | [Paper](https://arxiv.org/abs/2401.02530) |
-| **DiffusionFake** | 2024 | NeurIPS | [Paper](https://neurips.cc/virtual/2024/poster/xxxxx) |
+| **DiffusionFake** | 2024 | NeurIPS | [Paper](https://neurips.cc/virtual/2024/poster/95888) |
 | **D4** | 2024 | WACV | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Hooda_D4_Detection_of_Adversarial_Diffusion_Deepfakes_Using_Disjoint_Ensembles_WACV_2024_paper.html) [Code](https://github.com/nmangaokar/wacv_24_d4) |
+| **DigiShield** | 2025 | arXiv | [Paper](https://arxiv.org/abs/2505.16512) |
 
 ---
 
@@ -282,6 +288,7 @@ The rapid evolution of generative models has enabled the creation of highly real
 | **UFD / CNNDetection** | 2020 | — | ProGAN generated images | [GitHub](https://github.com/PeterWang512/CNNDetection) |
 | **AI-Forensics** | 2024 | 2.1M images | GAN + Diffusion + NeRF | — |
 | **SID-Set** (SIDA) | 2025 | 300K images | Social media AI images | [GitHub](https://github.com/hzlsaber/SIDA) |
+| **DigiFakeAV** | 2025 | Large-scale | Diffusion-based digital humans | [Paper](https://arxiv.org/abs/2505.16512) |
 
 ### Multimodal Datasets
 
@@ -290,6 +297,7 @@ The rapid evolution of generative models has enabled the creation of highly real
 | **DGM4** | 2024 | Audio-Visual-Text | [GitHub](https://github.com/rshaojimmy/MultiModal-DeepFake) |
 | **DeepfakeEval-2024** | 2024 | 88 websites, 52 languages | [Paper](https://arxiv.org/abs/2411.xxxxx) |
 | **DF40** | 2024 | 40 deepfake techniques | [NeurIPS](https://neurips.cc/virtual/2024/) |
+| **ArtiFact** | 2024 | 2.5M images | 25 generative models | [arXiv](https://arxiv.org/abs/2302.11970) |
 
 ---
 

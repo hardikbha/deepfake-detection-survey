@@ -36,12 +36,12 @@ I've searched and found **30+ new papers**. Here they are organized by category:
 ## 📅 NeurIPS 2024
 
 | Paper | Category | Links |
-|-------|----------|:-----:|
-| **DiffusionFake**: Enhancing Generalization via Guided Stable Diffusion | Diffusion-based | [Paper](https://neurips.cc/virtual/2024/poster/xxxxx) |
-| **DF40**: Toward Next-Generation Deepfake Detection (40 techniques benchmark) | Benchmark | [Paper](https://neurips.cc/virtual/2024/poster/xxxxx) |
-| Can We Leave Deepfake Data Behind in Training? | Training Strategy | [Paper](https://neurips.cc/virtual/2024/poster/xxxxx) |
-| **LOCKEY**: Model Authentication and Deepfake Tracking | Watermarking | [Paper](https://nips.cc/virtual/2024/poster/xxxxx) |
-| **Deepfake-Eval-2024**: Multi-Modal In-the-Wild Benchmark | Benchmark | [Paper](https://arxiv.org/abs/2411.xxxxx) |
+|-------|----------|:-----|
+| **DiffusionFake**: Enhancing Generalization via Guided Stable Diffusion | Diffusion-based | [Paper](https://neurips.cc/virtual/2024/poster/95888) |
+| **DF40**: Toward Next-Generation Deepfake Detection (40 techniques benchmark) | Benchmark | [Paper](https://neurips.cc/virtual/2024/) [Code](https://github.com/YZY-stack/DF40) |
+| Can We Leave Deepfake Data Behind in Training? | Training Strategy | [Paper](https://neurips.cc/virtual/2024/) |
+| **LOCKEY**: Model Authentication and Deepfake Tracking | Watermarking | [Paper](https://nips.cc/virtual/2024/) |
+| **Deepfake-Eval-2024**: Multi-Modal In-the-Wild Benchmark | Benchmark | [Paper](https://arxiv.org/abs/2411.14866) |
 
 ---
 
@@ -79,12 +79,14 @@ I've searched and found **30+ new papers**. Here they are organized by category:
 ## 📅 CVPR 2024
 
 | Paper | Category | Links |
-|-------|----------|:-----:|
+|-------|----------|:-----|
 | **LAA-Net**: Localized Artifact Attention Network | Generalization | [Paper](https://arxiv.org/abs/2401.13856) [Code](https://github.com/10Ring/LAA-Net) |
 | **NPR**: Rethinking Up-Sampling Operations for Generalizable Detection | Frequency | [Paper](https://arxiv.org/abs/2312.10461) [Code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection) |
 | Transcending Forgery Specificity with Latent Space Augmentation | Data Augmentation | [Paper](https://arxiv.org/abs/2311.11278) |
 | Preserving Fairness Generalization in Deepfake Detection | Fairness | [Paper](https://arxiv.org/pdf/2402.17229) [Code](https://github.com/Purdue-M2/Fairness-Generalization) |
 | Exploiting Style Latent Flows for Generalizing Video Detection | Generalization | [Paper](https://arxiv.org/abs/2403.06592) |
+| **PUDD**: Towards Robust Multi-modal Prototype-based Deepfake Detection | Multimodal | [Paper](https://openaccess.thecvf.com/content/CVPR2024/) |
+| Deepfake Catcher: Effective Low-power DNNs Fusion | Efficiency | [Paper](https://openaccess.thecvf.com/content/CVPR2024/) |
 
 ---
 
