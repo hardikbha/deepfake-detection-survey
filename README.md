@@ -175,72 +175,78 @@ The rapid evolution of generative models has enabled the creation of highly real
 | Method | Year | Venue | Links |
 |--------|:----:|:-----:|:-----:|
 | **MesoNet** | 2018 | WIFS | [Paper](https://arxiv.org/pdf/1809.00888.pdf) [Code](https://github.com/DariusAf/MesoNet) |
-| **XceptionNet** | 2019 | ICCV | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rossler_FaceForensics_Learning_to_Detect_Manipulated_Facial_Images_ICCV_2019_paper.pdf) [Code](https://github.com/ondyari/FaceForensics) |
+| **XceptionNet** | 2019 | ICCV | [Paper](https://arxiv.org/abs/1901.08971) [Code](https://github.com/ondyari/FaceForensics) |
 | Capsule-Forensics | 2019 | ICASSP | [Paper](https://arxiv.org/pdf/1810.11215.pdf) [Code](https://github.com/nii-yamagishilab/Capsule-Forensics) |
 | In Ictu Oculi: Eye Blinking | 2018 | WIFS | [Paper](https://arxiv.org/pdf/1806.02877.pdf) [Code](https://github.com/danmohaha/WIFS2018_In_Ictu_Oculi) |
 | Face Warping Artifacts | 2018 | CVPRW | [Paper](https://arxiv.org/abs/1811.00656) |
 | Multi-task Learning | 2019 | BTAS | [Paper](https://arxiv.org/pdf/1906.06876.pdf) [Code](https://github.com/nii-yamagishilab/ClassNSeg) |
 | **ADDNet** (WildDeepfake) | 2020 | ACM MM | [Paper](https://dl.acm.org/doi/10.1145/3394171.3413769) [Code](https://github.com/OpenTAI/wild-deepfake) |
 | **CNNDetection** (Wang et al.) | 2020 | CVPR | [Paper](https://arxiv.org/abs/1912.11035) [Code](https://github.com/PeterWang512/CNNDetection) |
-| **Face X-Ray** | 2020 | CVPR | [Paper](https://arxiv.org/abs/1912.13458) |
-| **F3-Net** | 2020 | ECCV | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570086.pdf) [Code](https://github.com/yyk-wew/F3-Net) |
+| **Face X-Ray** | 2020 | CVPR | [Paper](https://arxiv.org/abs/1912.13458) [Code](https://github.com/wkq-wukaiqi/Face-X-Ray) |
+| **F3-Net** | 2020 | ECCV | [Paper](https://arxiv.org/abs/2007.09355) [Code](https://github.com/yyk-wew/F3-Net) |
+| **Gram-Net** | 2020 | CVPR | [Paper](https://arxiv.org/abs/2002.00133) |
+| **SBIs** | 2022 | CVPR | [Paper](https://arxiv.org/abs/2204.08376) [Code](https://github.com/mapooon/SelfBlendedImages) |
+| **LGrad** | 2023 | CVPR | [Paper](https://doi.org/10.1109/CVPR52729.2023.01165) [Code](https://github.com/chuangchuangtan/LGrad) |
+| **UCF** | 2023 | ICCV | [Paper](https://arxiv.org/abs/2304.13949) |
+| **NoiseDF** | 2023 | AAAI | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26701) |
+| **AUNet** | 2023 | CVPR | [Paper](https://doi.org/10.1109/CVPR52729.2023.02367) |
+| **Implicit Identity** | 2023 | CVPR | [Paper](https://doi.org/10.1109/CVPR52729.2023.00436) |
+| **AltFreezing** | 2023 | CVPR | [Paper](https://arxiv.org/abs/2307.08317) |
+| **LAA-Net** | 2024 | CVPR | [Paper](https://arxiv.org/abs/2401.13856) [Code](https://github.com/10Ring/LAA-Net) |
+| **FTCN** | 2021 | ICCV | [Paper](https://arxiv.org/abs/2108.06693) [Code](https://github.com/yinglinzheng/FTCN) |
+| **LipForensics** | 2021 | CVPR | [Paper](https://arxiv.org/abs/2012.07657) [Code](https://github.com/ahaliassos/LipForensics) |
+| **M2TR** | 2022 | ICMR | [Paper](https://arxiv.org/abs/2104.09770) |
 
 ### Transformer-Based Detection
 
 | Method | Year | Venue | Links |
 |--------|:----:|:-----:|:-----:|
-| **ViT Detector** | 2022 | arXiv | [Paper](https://arxiv.org/abs/2204.05469) |
-| **Efficient FAT** | 2023 | AAAI | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25260) |
-| **TALL** | 2023 | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_TALL_Thumbnail_Layout_for_Deepfake_Video_Detection_ICCV_2023_paper.html) [Code](https://github.com/YuezunLi/TALL) |
-| Token-Level Shuffling | 2025 | AAAI | [Paper](https://arxiv.org/pdf/2501.04376) |
-| Facial Component Guided | 2025 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Han_Towards_More_General_Video-based_Deepfake_Detection_through_Facial_Component_Guided_CVPR_2025_paper.pdf) |
-| **HICOM** (Multi-Face) | 2025 | ICCV | [Paper](https://arxiv.org/abs/2505.xxxxx) |
-| **Wavelet-CLIP** | 2025 | arXiv | [Paper](https://arxiv.org/abs/2409.18301) |
+| **ViT Detector** | 2022 | arXiv | [Paper](https://arxiv.org/abs/2210.12752) |
+| **UIA-ViT** | 2022 | arXiv | [Paper](https://arxiv.org/abs/2210.12752) |
+| **Efficient FAT** | 2024 | arXiv | [Paper](https://arxiv.org/abs/2403.07240) |
+| **TALL** | 2024 | ICCV | [Paper](https://arxiv.org/abs/2307.07494) [Code](https://github.com/rainy-xu/TALL4Deepfake) |
+| **Token-Level Shuffling** | 2025 | AAAI | [Paper](https://arxiv.org/abs/2501.04376) |
+| **Wavelet-CLIP** | 2025 | arXiv | [Paper](https://arxiv.org/abs/2409.18301) [Code](https://github.com/lalithbharadwajbaru/Wavelet-CLIP) |
+| **FatFormer** | 2024 | CVPR | [Paper](https://arxiv.org/abs/2312.16649) |
 
 ### Frequency Domain Analysis
 
 | Method | Year | Venue | Links |
 |--------|:----:|:-----:|:-----:|
-| Thinking in Frequency | 2020 | CVPR | [Paper](https://arxiv.org/abs/2005.04501) |
+| **Thinking in Frequency** | 2020 | CVPR | [Paper](https://arxiv.org/abs/2007.09355) |
 | **CNN-FF** | 2021 | arXiv | [Paper](https://arxiv.org/abs/2103.04452) |
 | **DeFakeHop** | 2021 | arXiv | [Paper](https://arxiv.org/abs/2103.05891) |
-| **FreqDebias** | 2025 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Kashiani_FreqDebias_Towards_Generalizable_Deepfake_Detection_via_Consistency-Driven_Frequency_Debiasing_CVPR_2025_paper.pdf) |
 | **NPR** | 2024 | CVPR | [Paper](https://arxiv.org/abs/2312.10461) [Code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection) |
+| **FreqDebias** | 2025 | arXiv | [Paper](https://arxiv.org/abs/2509.22412) |
 
 ### Hybrid Spatial-Spectral Architectures
 
 | Method | Year | Venue | Links |
 |--------|:----:|:-----:|:-----:|
-| **SFANet** | 2022 | arXiv | [Paper](https://arxiv.org/abs/2203.14530) |
-| **RECCE** | 2022 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_End-to-End_Reconstruction-Classification_Learning_for_Face_Forgery_Detection_CVPR_2022_paper.pdf) |
-| **CrossDF** | 2023 | arXiv | [Paper](https://arxiv.org/abs/2309.00987) |
-| **HAMMER** | 2024 | NeurIPS | [Paper](https://arxiv.org/abs/2310.07906) |
-| **D³** | 2025 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_D3_Scaling_Up_Deepfake_Detection_by_Learning_from_Discrepancy_CVPR_2025_paper.pdf) [Code](https://github.com/BigAandSmallq/D3) |
-| **PUDD** (Prototype-based) | 2024 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/PUDD_Towards_Robust_Multi-modal_Prototype-based_Deepfake_Detection_CVPR_2024_paper.pdf) |
-| Video-Level Blending | 2025 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2025/) |
+| **SFANet** | 2025 | arXiv | [Paper](https://arxiv.org/abs/2510.04630) |
+| **RECCE** | 2022 | CVPR | [Paper](https://arxiv.org/abs/2206.00458) |
+| **CrossDF** | 2024 | arXiv | [Paper](https://arxiv.org/abs/2310.00359) |
+| **UnivFD** | 2023 | CVPR | [Paper](https://arxiv.org/abs/2302.10174) |
+| **D³** | 2025 | CVPR | [Paper](https://arxiv.org/abs/2404.04584) [Code](https://github.com/BigAandSmallq/D3) |
+| **SFCL** | 2025 | arXiv | [Paper](https://arxiv.org/abs/2504.17223) |
 
 ### VLM & Multimodal Detection
 
 | Method | Year | Venue | Links |
 |--------|:----:|:-----:|:-----:|
-| **SIDA** | 2025 | CVPR | [Paper](https://github.com/hzlsaber/SIDA) [Code](https://github.com/hzlsaber/SIDA) |
-| **FakeShield** | 2025 | ICLR | [Paper](https://arxiv.org/pdf/2410.02761) |
+| **SIDA** | 2025 | CVPR | [Paper](https://arxiv.org/abs/2412.04292) [Code](https://github.com/hzlsaber/SIDA) |
+| **FakeShield** | 2025 | ICLR | [Paper](https://arxiv.org/abs/2410.02761) |
 | **Forensics Adapter** | 2025 | CVPR | [Paper](https://arxiv.org/abs/2411.19715) |
-| Rethinking VLM in Face Forensics | 2025 | CVPR | [Paper](https://arxiv.org/pdf/2503.20188) |
-| **AntifakePrompt** | 2025 | ICLR | [Paper](https://iclr.cc/virtual/2025/) |
-| **FakeVLM** | 2025 | NeurIPS | [Paper](https://neurips.cc/virtual/2025/) |
-| **DAID** (Fair Detection) | 2025 | NeurIPS | [Paper](https://neurips.cc/virtual/2025/) |
+| **GAPL** | 2025 | arXiv | [Paper](https://arxiv.org/abs/2512.12982) |
 
 ### Diffusion-Aware Detection
 
 | Method | Year | Venue | Links |
 |--------|:----:|:-----:|:-----:|
-| **DIRE** | 2023 | ICCV | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DIRE_Diffusion_Reconstruction_Error_for_Fake_Image_Detection_ICCV_2023_paper.pdf) [Code](https://github.com/ZhendongWang6/DIRE) |
+| **DIRE** | 2023 | ICCV | [Paper](https://arxiv.org/abs/2303.09295) [Code](https://github.com/ZhendongWang6/DIRE) |
 | **DRCT** | 2024 | ICML | [Paper](https://proceedings.mlr.press/v235/chen24ay.html) [Code](https://github.com/beibuwandeluori/DRCT) |
 | **DiffusionForensics** | 2024 | arXiv | [Paper](https://arxiv.org/abs/2401.02530) |
-| **DiffusionFake** | 2024 | NeurIPS | [Paper](https://neurips.cc/virtual/2024/poster/95888) |
-| **D4** | 2024 | WACV | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Hooda_D4_Detection_of_Adversarial_Diffusion_Deepfakes_Using_Disjoint_Ensembles_WACV_2024_paper.html) [Code](https://github.com/nmangaokar/wacv_24_d4) |
-| **DigiShield** | 2025 | arXiv | [Paper](https://arxiv.org/abs/2505.16512) |
+| **D4** | 2024 | WACV | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Hooda_D4_WACV_2024.html) [Code](https://github.com/nmangaokar/wacv_24_d4) |
 
 ---
 
@@ -413,5 +419,5 @@ Contributions welcome! Add new papers/datasets via Pull Request.
 ---
 
 <p align="center">
-  <b>Last Updated:</b> December 2025
+  <b>Last Updated:</b> January 2026
 </p>
